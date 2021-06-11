@@ -1,6 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":1,},
+    {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":0,},
+    {"id":{"name":"spr_testSnek","path":"sprites/spr_testSnek/spr_testSnek.yy",},"order":0,},
+    {"id":{"name":"obj_snek","path":"objects/obj_snek/obj_snek.yy",},"order":0,},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -16,7 +20,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -42,7 +46,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "Blit Jam",
