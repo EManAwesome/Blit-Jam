@@ -2,7 +2,11 @@
   "resources": [
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":1,},
+    {"id":{"name":"obj_snekBody","path":"objects/obj_snekBody/obj_snekBody.yy",},"order":4,},
+    {"id":{"name":"spr_testFruit","path":"sprites/spr_testFruit/spr_testFruit.yy",},"order":15,},
+    {"id":{"name":"scr_spawn","path":"scripts/scr_spawn/scr_spawn.yy",},"order":1,},
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":0,},
+    {"id":{"name":"obj_testFruit","path":"objects/obj_testFruit/obj_testFruit.yy",},"order":3,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":2,},
     {"id":{"name":"rm_death","path":"rooms/rm_death/rm_death.yy",},"order":1,},
     {"id":{"name":"spr_testSnek","path":"sprites/spr_testSnek/spr_testSnek.yy",},"order":0,},
