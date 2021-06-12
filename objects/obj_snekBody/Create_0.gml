@@ -9,11 +9,7 @@ else
 	looks = obj_controller.bodyArray;
 	count = 1;
 
-	show_debug_message(looks);
-
 	body = looks[array_length(looks) - count];
-
-	show_debug_message(body);
 
 	if (body == 1)
 	{
