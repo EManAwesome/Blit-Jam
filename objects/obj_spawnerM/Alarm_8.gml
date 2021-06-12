@@ -2,4 +2,4 @@
 // You can write your code in this editor
 scr_spawnMed();
 
-alarm[8] = 240;
+alarm[8] = global.GAME_SPEED * 8;
