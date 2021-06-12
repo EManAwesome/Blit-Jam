@@ -16,6 +16,10 @@ function scr_spawnEasy(){
 	}
 	
 	if (!position_meeting(spawnX, spawnY, obj_dadCoin)) {
-		instance_create_depth(spawnX, spawnY, 10, spawnCoin);
+		if (!position_meeting(spawnX, spawnY, obj_snek)) {
+			if (!position_meeting(spawnX, spawnY, obj_wall)) {
+				instance_create_depth(spawnX, spawnY, 10, spawnCoin);
+			}
+		}
 	}
 }
