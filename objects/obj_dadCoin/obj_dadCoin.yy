@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_testFruit",
-    "path": "sprites/spr_testFruit/spr_testFruit.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -28,7 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_testFruit",
+  "name": "obj_dadCoin",
   "tags": [],
   "resourceType": "GMObject",
 }
