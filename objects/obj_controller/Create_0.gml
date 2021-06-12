@@ -10,3 +10,5 @@ move_r = false;
 alarm[0] = 60;
 
 bodyArray = array_create(1, 0);
+
+head = spr_headStart;

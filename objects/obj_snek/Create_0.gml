@@ -11,4 +11,5 @@ move_r = false;
 bodyArray = array_create(0);
 moveArray = array_create(0);
 */
+sprite_index = obj_controller.head;
 alarm[0] = 60;
