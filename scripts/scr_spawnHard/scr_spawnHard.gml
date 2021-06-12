@@ -1,8 +1,8 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_spawnHard(){
-	spawnX = irandom_range(1, 16) * 32;
-	spawnY = irandom_range(1, 16) * 32;
+	spawnX = irandom_range(1, 16) * 31;
+	spawnY = irandom_range(1, 16) * 31;
 	randCoin = irandom_range(1,8);
 	
 	switch (randCoin)
@@ -43,7 +43,7 @@ function scr_spawnHard(){
 		&& !position_meeting(spawnX, spawnY, obj_coinShark)
 		&& !position_meeting(spawnX, spawnY, obj_snek)
 		&& !position_meeting(spawnX, spawnY, obj_snekBody)
-		&& !position_meeting(spawnX, spawnY, obj_wall))  {
+		&& !position_meeting(spawnX, spawnY, obj_hell_wall))  {
 		instance_create_depth(spawnX, spawnY, 10, spawnCoin);
 	}
 }
