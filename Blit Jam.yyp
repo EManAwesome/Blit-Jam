@@ -33,6 +33,7 @@
     {"id":{"name":"snd_future","path":"sounds/snd_future/snd_future.yy",},"order":1,},
     {"id":{"name":"scr_death","path":"scripts/scr_death/scr_death.yy",},"order":0,},
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":1,},
+    {"id":{"name":"snd_boss","path":"sounds/snd_boss/snd_boss.yy",},"order":8,},
     {"id":{"name":"snd_coin","path":"sounds/snd_coin/snd_coin.yy",},"order":5,},
     {"id":{"name":"scr_spawnEasy","path":"scripts/scr_spawnEasy/scr_spawnEasy.yy",},"order":2,},
     {"id":{"name":"scr_spawnHard","path":"scripts/scr_spawnHard/scr_spawnHard.yy",},"order":3,},
