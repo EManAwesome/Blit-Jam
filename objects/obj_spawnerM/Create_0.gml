@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (keyboard_check(ord("R")))
-{
-	room_goto(rm_title);
-}
+randomize();
+
+scr_spawnMed();
+scr_spawnMed();
+scr_spawnMed();
+
+alarm[8] = 240;
