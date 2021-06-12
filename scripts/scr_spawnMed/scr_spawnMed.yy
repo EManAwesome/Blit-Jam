@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "scr_spawn",
+  "name": "scr_spawnMed",
   "tags": [],
   "resourceType": "GMScript",
 }
