@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_coinDog",
-    "path": "sprites/spr_coinDog/spr_coinDog.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_dadCoin",
-    "path": "objects/obj_dadCoin/obj_dadCoin.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_coinHorse",
+  "name": "obj_die",
   "tags": [],
   "resourceType": "GMObject",
 }
