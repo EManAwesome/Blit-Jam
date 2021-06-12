@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-//show_debug_message("Unmade");
+
+draw_text(200, 250, "Press R to Restart");
