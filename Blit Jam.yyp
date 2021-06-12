@@ -7,6 +7,7 @@
     {"id":{"name":"obj_coinDrag","path":"objects/obj_coinDrag/obj_coinDrag.yy",},"order":3,},
     {"id":{"name":"obj_coinHorse","path":"objects/obj_coinHorse/obj_coinHorse.yy",},"order":4,},
     {"id":{"name":"obj_coinLion","path":"objects/obj_coinLion/obj_coinLion.yy",},"order":5,},
+    {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},"order":5,},
     {"id":{"name":"obj_coinShark","path":"objects/obj_coinShark/obj_coinShark.yy",},"order":6,},
     {"id":{"name":"obj_coinSnake","path":"objects/obj_coinSnake/obj_coinSnake.yy",},"order":7,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":8,},
