@@ -9,5 +9,5 @@ if (!(sprite_index == spr_headCat && other.sprite_index == spr_bodyCat)
 	&& !(sprite_index == spr_headSnake && other.sprite_index == spr_bodySnake)
 	&& !(sprite_index == spr_headHorse && other.sprite_index == spr_bodyHorse))
 {
-	room_goto(rm_death);
+	scr_death();
 }
