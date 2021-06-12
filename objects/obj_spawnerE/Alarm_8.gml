@@ -2,4 +2,4 @@
 // You can write your code in this editor
 scr_spawnEasy();
 
-alarm[8] = 360;
+alarm[8] = global.GAME_SPEED * 10;

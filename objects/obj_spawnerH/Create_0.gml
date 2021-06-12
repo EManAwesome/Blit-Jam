@@ -10,4 +10,4 @@ scr_spawnHard();
 scr_spawnHard();
 scr_spawnHard();
 
-alarm[8] = 240;
+alarm[8] = global.GAME_SPEED * 4;
