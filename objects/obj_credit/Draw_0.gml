@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-draw_text(70, 100, "Created by Brandon Litwin and Evan Mastriano");
-draw_text(10, 120, "special thanks to G Leaden, Maria Scarano, and Ian Sniffen");
+draw_text(70, 80, "Created by Brandon Litwin and Evan Mastriano");
+draw_text(10, 100, "special thanks to G Leaden, Maria Scarano, and Ian Sniffen");
 
 draw_text(40, 190, "Hard level music:");
 draw_text(20, 220, "Heart Of The Wicked by Cjbeards");
