@@ -37,6 +37,7 @@
     {"id":{"name":"spr_fence_BL","path":"sprites/spr_fence_BL/spr_fence_BL.yy",},"order":7,},
     {"id":{"name":"snd_wicked","path":"sounds/snd_wicked/snd_wicked.yy",},"order":4,},
     {"id":{"name":"rm_hard","path":"rooms/rm_hard/rm_hard.yy",},"order":2,},
+    {"id":{"name":"spr_die","path":"sprites/spr_die/spr_die.yy",},"order":14,},
     {"id":{"name":"rm_med","path":"rooms/rm_med/rm_med.yy",},"order":3,},
     {"id":{"name":"spr_fence_vertical","path":"sprites/spr_fence_vertical/spr_fence_vertical.yy",},"order":5,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":4,},
