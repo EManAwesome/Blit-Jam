@@ -2,6 +2,9 @@
 // You can write your code in this editor
 randomize();
 
+audio_stop_all();
+audio_play_sound(snd_future, 1, true);
+
 scr_spawnMed();
 scr_spawnMed();
 scr_spawnMed();
