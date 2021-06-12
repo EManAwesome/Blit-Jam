@@ -33,7 +33,17 @@ function scr_spawnHard(){
 			break;
 	}
 	
-	if (!position_meeting(spawnX, spawnY, obj_dadCoin)) {
+	if (!position_meeting(spawnX, spawnY, obj_coinCat)
+		&& !position_meeting(spawnX, spawnY, obj_coinDog)
+		&& !position_meeting(spawnX, spawnY, obj_coinChick)
+		&& !position_meeting(spawnX, spawnY, obj_coinLion)
+		&& !position_meeting(spawnX, spawnY, obj_coinDrag)
+		&& !position_meeting(spawnX, spawnY, obj_coinHorse)
+		&& !position_meeting(spawnX, spawnY, obj_coinSnake)
+		&& !position_meeting(spawnX, spawnY, obj_coinShark)
+		&& !position_meeting(spawnX, spawnY, obj_snek)
+		&& !position_meeting(spawnX, spawnY, obj_snekBody)
+		&& !position_meeting(spawnX, spawnY, obj_wall))  {
 		instance_create_depth(spawnX, spawnY, 10, spawnCoin);
 	}
 }

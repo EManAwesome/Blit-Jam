@@ -5,5 +5,6 @@ randomize();
 scr_spawnHard();
 scr_spawnHard();
 scr_spawnHard();
+scr_spawnHard();
 
 alarm[8] = 240;

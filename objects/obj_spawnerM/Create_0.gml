@@ -5,5 +5,6 @@ randomize();
 scr_spawnMed();
 scr_spawnMed();
 scr_spawnMed();
+scr_spawnMed();
 
 alarm[8] = 240;
