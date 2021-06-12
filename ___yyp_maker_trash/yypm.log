@@ -2,1386 +2,1388 @@ You are using YYP Maker v1.1.1, released in 23-12-2020
 
 
 
-[12-06-2021 12:33:04] Initialized GameMaker Project: Blit Jam.yyp
-[12-06-2021 12:33:04] Checking sprites
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites
-[12-06-2021 12:33:04] Checking scripts
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts
-[12-06-2021 12:33:04] Checking rooms
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/rooms
-[12-06-2021 12:33:04] Checking options
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/options
-[12-06-2021 12:33:04] Checking objects
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects
-[12-06-2021 12:33:04] Checking datafiles
-[12-06-2021 12:33:04] Reading Datafiles...
-[12-06-2021 12:33:04] Checking Blit Jam.yyp
-[12-06-2021 12:33:04] Found old YYP file: Blit Jam.yyp, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking .git
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git
-[12-06-2021 12:33:04] Checking refs
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs
-[12-06-2021 12:33:04] Checking objects
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects
-[12-06-2021 12:33:04] Checking logs
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs
-[12-06-2021 12:33:04] Checking info
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/info
-[12-06-2021 12:33:04] Checking index
-[12-06-2021 12:33:04] Checking hooks
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/hooks
-[12-06-2021 12:33:04] Checking HEAD
-[12-06-2021 12:33:04] Checking FETCH_HEAD
-[12-06-2021 12:33:04] Checking description
-[12-06-2021 12:33:04] Checking config
-[12-06-2021 12:33:04] Checking COMMIT_EDITMSG
-[12-06-2021 12:33:04] Checking README.sample
-[12-06-2021 12:33:04] Checking exclude
-[12-06-2021 12:33:04] Checking refs
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs
-[12-06-2021 12:33:04] Checking HEAD
-[12-06-2021 12:33:04] Checking remotes
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs/remotes
-[12-06-2021 12:33:04] Checking heads
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs/heads
-[12-06-2021 12:33:04] Checking master
-[12-06-2021 12:33:04] Checking origin
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs/remotes/origin
-[12-06-2021 12:33:04] Checking master
-[12-06-2021 12:33:04] Checking pack
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/pack
-[12-06-2021 12:33:04] Checking info
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/info
-[12-06-2021 12:33:04] Checking fd
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fd
-[12-06-2021 12:33:04] Checking fc
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fc
-[12-06-2021 12:33:04] Checking fb
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fb
-[12-06-2021 12:33:04] Checking fa
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fa
-[12-06-2021 12:33:04] Checking f9
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f9
-[12-06-2021 12:33:04] Checking f8
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f8
-[12-06-2021 12:33:04] Checking f7
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f7
-[12-06-2021 12:33:04] Checking f6
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f6
-[12-06-2021 12:33:04] Checking f5
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f5
-[12-06-2021 12:33:04] Checking f3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f3
-[12-06-2021 12:33:04] Checking f1
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f1
-[12-06-2021 12:33:04] Checking f0
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f0
-[12-06-2021 12:33:04] Checking ef
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ef
-[12-06-2021 12:33:04] Checking ee
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ee
-[12-06-2021 12:33:04] Checking ed
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ed
-[12-06-2021 12:33:04] Checking ec
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ec
-[12-06-2021 12:33:04] Checking ea
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ea
-[12-06-2021 12:33:04] Checking e9
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e9
-[12-06-2021 12:33:04] Checking e8
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e8
-[12-06-2021 12:33:04] Checking e7
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e7
-[12-06-2021 12:33:04] Checking e6
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e6
-[12-06-2021 12:33:04] Checking e5
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e5
-[12-06-2021 12:33:04] Checking e4
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e4
-[12-06-2021 12:33:04] Checking e3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e3
-[12-06-2021 12:33:04] Checking e2
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e2
-[12-06-2021 12:33:04] Checking e0
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e0
-[12-06-2021 12:33:04] Checking de
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/de
-[12-06-2021 12:33:04] Checking dd
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/dd
-[12-06-2021 12:33:04] Checking dc
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/dc
-[12-06-2021 12:33:04] Checking db
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/db
-[12-06-2021 12:33:04] Checking da
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/da
-[12-06-2021 12:33:04] Checking d9
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d9
-[12-06-2021 12:33:04] Checking d8
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d8
-[12-06-2021 12:33:04] Checking d4
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d4
-[12-06-2021 12:33:04] Checking d3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d3
-[12-06-2021 12:33:04] Checking d2
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d2
-[12-06-2021 12:33:04] Checking d1
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d1
-[12-06-2021 12:33:04] Checking d0
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d0
-[12-06-2021 12:33:04] Checking ce
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ce
-[12-06-2021 12:33:04] Checking cd
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/cd
-[12-06-2021 12:33:04] Checking cb
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/cb
-[12-06-2021 12:33:04] Checking c9
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c9
-[12-06-2021 12:33:04] Checking c7
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c7
-[12-06-2021 12:33:04] Checking c5
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c5
-[12-06-2021 12:33:04] Checking c4
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c4
-[12-06-2021 12:33:04] Checking c3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c3
-[12-06-2021 12:33:04] Checking c2
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c2
-[12-06-2021 12:33:04] Checking c1
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c1
-[12-06-2021 12:33:04] Checking be
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/be
-[12-06-2021 12:33:04] Checking bd
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/bd
-[12-06-2021 12:33:04] Checking bb
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/bb
-[12-06-2021 12:33:04] Checking ba
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ba
-[12-06-2021 12:33:04] Checking b7
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b7
-[12-06-2021 12:33:04] Checking b6
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b6
-[12-06-2021 12:33:04] Checking b5
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b5
-[12-06-2021 12:33:04] Checking b4
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b4
-[12-06-2021 12:33:04] Checking b3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b3
-[12-06-2021 12:33:04] Checking b2
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b2
-[12-06-2021 12:33:04] Checking b1
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b1
-[12-06-2021 12:33:04] Checking af
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/af
-[12-06-2021 12:33:04] Checking ad
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ad
-[12-06-2021 12:33:04] Checking ac
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ac
-[12-06-2021 12:33:04] Checking ab
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ab
-[12-06-2021 12:33:04] Checking aa
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/aa
-[12-06-2021 12:33:04] Checking a9
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a9
-[12-06-2021 12:33:04] Checking a7
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a7
-[12-06-2021 12:33:04] Checking a6
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a6
-[12-06-2021 12:33:04] Checking a5
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a5
-[12-06-2021 12:33:04] Checking a4
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a4
-[12-06-2021 12:33:04] Checking a3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a3
-[12-06-2021 12:33:04] Checking a0
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a0
-[12-06-2021 12:33:04] Checking 9f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9f
-[12-06-2021 12:33:04] Checking 9e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9e
-[12-06-2021 12:33:04] Checking 9c
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9c
-[12-06-2021 12:33:04] Checking 9b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9b
-[12-06-2021 12:33:04] Checking 9a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9a
-[12-06-2021 12:33:04] Checking 99
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/99
-[12-06-2021 12:33:04] Checking 98
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/98
-[12-06-2021 12:33:04] Checking 96
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/96
-[12-06-2021 12:33:04] Checking 93
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/93
-[12-06-2021 12:33:04] Checking 92
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/92
-[12-06-2021 12:33:04] Checking 91
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/91
-[12-06-2021 12:33:04] Checking 90
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/90
-[12-06-2021 12:33:04] Checking 8f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/8f
-[12-06-2021 12:33:04] Checking 8e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/8e
-[12-06-2021 12:33:04] Checking 8d
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/8d
-[12-06-2021 12:33:04] Checking 89
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/89
-[12-06-2021 12:33:04] Checking 88
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/88
-[12-06-2021 12:33:04] Checking 86
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/86
-[12-06-2021 12:33:04] Checking 85
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/85
-[12-06-2021 12:33:04] Checking 84
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/84
-[12-06-2021 12:33:04] Checking 83
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/83
-[12-06-2021 12:33:04] Checking 81
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/81
-[12-06-2021 12:33:04] Checking 80
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/80
-[12-06-2021 12:33:04] Checking 7f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7f
-[12-06-2021 12:33:04] Checking 7e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7e
-[12-06-2021 12:33:04] Checking 7d
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7d
-[12-06-2021 12:33:04] Checking 7c
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7c
-[12-06-2021 12:33:04] Checking 7b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7b
-[12-06-2021 12:33:04] Checking 7a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7a
-[12-06-2021 12:33:04] Checking 79
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/79
-[12-06-2021 12:33:04] Checking 78
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/78
-[12-06-2021 12:33:04] Checking 77
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/77
-[12-06-2021 12:33:04] Checking 76
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/76
-[12-06-2021 12:33:04] Checking 75
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/75
-[12-06-2021 12:33:04] Checking 74
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/74
-[12-06-2021 12:33:04] Checking 72
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/72
-[12-06-2021 12:33:04] Checking 71
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/71
-[12-06-2021 12:33:04] Checking 70
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/70
-[12-06-2021 12:33:04] Checking 6f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6f
-[12-06-2021 12:33:04] Checking 6e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6e
-[12-06-2021 12:33:04] Checking 6d
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6d
-[12-06-2021 12:33:04] Checking 6b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6b
-[12-06-2021 12:33:04] Checking 6a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6a
-[12-06-2021 12:33:04] Checking 68
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/68
-[12-06-2021 12:33:04] Checking 67
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/67
-[12-06-2021 12:33:04] Checking 65
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/65
-[12-06-2021 12:33:04] Checking 64
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/64
-[12-06-2021 12:33:04] Checking 63
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/63
-[12-06-2021 12:33:04] Checking 62
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/62
-[12-06-2021 12:33:04] Checking 60
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/60
-[12-06-2021 12:33:04] Checking 5f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5f
-[12-06-2021 12:33:04] Checking 5e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5e
-[12-06-2021 12:33:04] Checking 5c
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5c
-[12-06-2021 12:33:04] Checking 5b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5b
-[12-06-2021 12:33:04] Checking 59
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/59
-[12-06-2021 12:33:04] Checking 58
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/58
-[12-06-2021 12:33:04] Checking 56
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/56
-[12-06-2021 12:33:04] Checking 55
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/55
-[12-06-2021 12:33:04] Checking 52
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/52
-[12-06-2021 12:33:04] Checking 51
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/51
-[12-06-2021 12:33:04] Checking 50
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/50
-[12-06-2021 12:33:04] Checking 4f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4f
-[12-06-2021 12:33:04] Checking 4e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4e
-[12-06-2021 12:33:04] Checking 4d
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4d
-[12-06-2021 12:33:04] Checking 4c
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4c
-[12-06-2021 12:33:04] Checking 4a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4a
-[12-06-2021 12:33:04] Checking 49
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/49
-[12-06-2021 12:33:04] Checking 48
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/48
-[12-06-2021 12:33:04] Checking 47
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/47
-[12-06-2021 12:33:04] Checking 46
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/46
-[12-06-2021 12:33:04] Checking 45
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/45
-[12-06-2021 12:33:04] Checking 44
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/44
-[12-06-2021 12:33:04] Checking 42
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/42
-[12-06-2021 12:33:04] Checking 41
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/41
-[12-06-2021 12:33:04] Checking 40
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/40
-[12-06-2021 12:33:04] Checking 3f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3f
-[12-06-2021 12:33:04] Checking 3e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3e
-[12-06-2021 12:33:04] Checking 3c
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3c
-[12-06-2021 12:33:04] Checking 3a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3a
-[12-06-2021 12:33:04] Checking 39
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/39
-[12-06-2021 12:33:04] Checking 38
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/38
-[12-06-2021 12:33:04] Checking 37
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/37
-[12-06-2021 12:33:04] Checking 35
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/35
-[12-06-2021 12:33:04] Checking 31
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/31
-[12-06-2021 12:33:04] Checking 30
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/30
-[12-06-2021 12:33:04] Checking 2f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2f
-[12-06-2021 12:33:04] Checking 2e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2e
-[12-06-2021 12:33:04] Checking 2c
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2c
-[12-06-2021 12:33:04] Checking 2b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2b
-[12-06-2021 12:33:04] Checking 2a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2a
-[12-06-2021 12:33:04] Checking 29
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/29
-[12-06-2021 12:33:04] Checking 28
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/28
-[12-06-2021 12:33:04] Checking 27
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/27
-[12-06-2021 12:33:04] Checking 26
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/26
-[12-06-2021 12:33:04] Checking 25
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/25
-[12-06-2021 12:33:04] Checking 23
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/23
-[12-06-2021 12:33:04] Checking 22
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/22
-[12-06-2021 12:33:04] Checking 1f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1f
-[12-06-2021 12:33:04] Checking 1d
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1d
-[12-06-2021 12:33:04] Checking 1b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1b
-[12-06-2021 12:33:04] Checking 1a
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1a
-[12-06-2021 12:33:04] Checking 19
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/19
-[12-06-2021 12:33:04] Checking 17
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/17
-[12-06-2021 12:33:04] Checking 16
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/16
-[12-06-2021 12:33:04] Checking 15
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/15
-[12-06-2021 12:33:04] Checking 13
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/13
-[12-06-2021 12:33:04] Checking 12
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/12
-[12-06-2021 12:33:04] Checking 10
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/10
-[12-06-2021 12:33:04] Checking 0f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/0f
-[12-06-2021 12:33:04] Checking 0e
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/0e
-[12-06-2021 12:33:04] Checking 0b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/0b
-[12-06-2021 12:33:04] Checking 09
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/09
-[12-06-2021 12:33:04] Checking 07
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/07
-[12-06-2021 12:33:04] Checking 04
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/04
-[12-06-2021 12:33:04] Checking 03
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/03
-[12-06-2021 12:33:04] Checking 01
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/01
-[12-06-2021 12:33:04] Checking 00
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/00
-[12-06-2021 12:33:04] Checking edbf6a64e17da3d74ecb0c96ff88d171b9fd5b
-[12-06-2021 12:33:04] Checking d16f520501102a50f3a295c1063d4b00c3f0d8
-[12-06-2021 12:33:04] Checking adc8618cc6c1584c20ce31d7e0ede41bf5ac04
-[12-06-2021 12:33:04] Checking 5c8b20c55471cc1a3be99618c7e5dbc37b9a05
-[12-06-2021 12:33:04] Checking a5032c61f6f1931974a1693e1e63ec8c0044a3
-[12-06-2021 12:33:04] Checking 3fd5cdc54700cd5444fa5b419716a4520ac04b
-[12-06-2021 12:33:04] Checking 01e28bed4d225338b82fc229737c221199de22
-[12-06-2021 12:33:04] Checking 379fa033e658868b00bdc800f28ede758ae1ce
-[12-06-2021 12:33:04] Checking 2d1e5cc0b102e22ed2a49db4ca42d43a988e72
-[12-06-2021 12:33:04] Checking 74ec6c5d0b7326ee0743331a3b25e9f9a4bb27
-[12-06-2021 12:33:04] Checking b2a8b1ab507cd461cb12e057c2c9c369ffb0cf
-[12-06-2021 12:33:04] Checking 966d15aac40ac0365fa14b58c7928b7e464d0a
-[12-06-2021 12:33:04] Checking ca109ef84e85dd81cc7f6b1b0dde5327dc4a75
-[12-06-2021 12:33:04] Checking 44e04ed41c4b89be27dcc8a6ea0fae62a9e07f
-[12-06-2021 12:33:04] Checking ed2bc73636916f11dd15ff12643a785028102e
-[12-06-2021 12:33:04] Checking c5e1cab708f56fcbe1074068f9759b279ccaa2
-[12-06-2021 12:33:04] Checking 21742fddf6a60e0b73eaeb1290bcfa150e0ff5
-[12-06-2021 12:33:04] Checking 521377eb6c595eb688e361de4e05e8b0c0c1b2
-[12-06-2021 12:33:04] Checking 4613037512328bce20f5038d6bb35a596b98b3
-[12-06-2021 12:33:04] Checking 3e7908c1344da972b3b083b31dceb68ae6e013
-[12-06-2021 12:33:04] Checking 98036bf72359db6bc28fed57883e3ef9fc523a
-[12-06-2021 12:33:04] Checking b802072af67b1eead3463896d0ffd1831ffa33
-[12-06-2021 12:33:04] Checking 86d432907f3bed1f3073b62c0d6a4575d98bd5
-[12-06-2021 12:33:04] Checking d69eb0048dafd9c8a8b68c1f03768cdf1f6a65
-[12-06-2021 12:33:04] Checking 93b1feace35b1f1286b65de1e5cf98473e953f
-[12-06-2021 12:33:04] Checking 88972a8f856188443c2e4cdb0f2baadd4a8a0d
-[12-06-2021 12:33:04] Checking 4015f7aeefcb09b8f1f803d553acfdf99de39c
-[12-06-2021 12:33:04] Checking e480538a96ae73f638c6d65b94d2d815ffd6c8
-[12-06-2021 12:33:04] Checking 19133283740b0a3734f1c48e60e13438911a01
-[12-06-2021 12:33:04] Checking 45f5de12297576cd55c7a88b5fdf22099c9e9d
-[12-06-2021 12:33:04] Checking 587d68dd01b5e58e77fa9ae275eeb8d5c81535
-[12-06-2021 12:33:04] Checking 942b2fb8e5946b863a3eaf911e52ad9dff21c4
-[12-06-2021 12:33:04] Checking 75d17eeebe374463ffcd100ef5007e8e359666
-[12-06-2021 12:33:04] Checking 41d38fbe6a4fb72cc0177e1f4c1cf6df348bba
-[12-06-2021 12:33:04] Checking 180f2660b618955d8f0df16c1437f3ff266bbb
-[12-06-2021 12:33:04] Checking 09358c645a869976a2de42729795c312e244ea
-[12-06-2021 12:33:04] Checking 5de432bb112c8334338a2600bb13b169e167c0
-[12-06-2021 12:33:04] Checking 56cbb7da7954eda6991fd5886c2c4b7e6067a7
-[12-06-2021 12:33:04] Checking 187c02b279c43dc229bd357598c8d469338857
-[12-06-2021 12:33:04] Checking 4b74d7cdd41128df333aadd5c31ec48bae019d
-[12-06-2021 12:33:04] Checking 1868864be8a586c4c3332a65d6e596b23849ac
-[12-06-2021 12:33:04] Checking 03d76fbf01e04a456af84ac219674e45de745e
-[12-06-2021 12:33:04] Checking a8db3217796a4a837b8cc11e47424fc0bdfca5
-[12-06-2021 12:33:04] Checking a023ff5305f137693bd19d4668bec16bf5a2e0
-[12-06-2021 12:33:04] Checking d057f518643e822d9881285cc9c65701e4195b
-[12-06-2021 12:33:04] Checking ca381d72ec9f9ecd750d7735a4c957a440d8d4
-[12-06-2021 12:33:04] Checking 6d1db26ff27d50cc0385c45fe49479830e651e
-[12-06-2021 12:33:04] Checking 1e7b189e762fbecbbf84de96724987294f3480
-[12-06-2021 12:33:04] Checking b3062ef9aa26a2d6dff29ac48b547665c6987c
-[12-06-2021 12:33:04] Checking 3fc5a7495d7f7d5cdba4e5162df42edaef9946
-[12-06-2021 12:33:04] Checking 32889537f248bb1d96fd757995f64cf99daf77
-[12-06-2021 12:33:04] Checking 057c58385f378582d0c0e1e834e56e23523791
-[12-06-2021 12:33:04] Checking 18bb95b2b95a65dcb746348cc231c97c4de795
-[12-06-2021 12:33:04] Checking 0083adb88015b5656f67bf69ea41f0f3266949
-[12-06-2021 12:33:04] Checking 8d5517c3fe25ba5e95482f36dd2ed731130a17
-[12-06-2021 12:33:04] Checking 16ea5b3e1c41d5dcfcc5fb64162e7526af5913
-[12-06-2021 12:33:04] Checking f67e82417994583b567b371d9dfd6ad81eebd3
-[12-06-2021 12:33:04] Checking d30e501fd5b76e37a7de281c9bc9660c1c8b09
-[12-06-2021 12:33:04] Checking 0119685a63f92ddcd6c47a2a6949ab0c1ea196
-[12-06-2021 12:33:04] Checking c3906636a13e5e36682380a965432254fcebad
-[12-06-2021 12:33:04] Checking 93e6577ae6ac09518bde649c98530f4c9a0b96
-[12-06-2021 12:33:04] Checking 6700a26f67feb31d523fdb15b18d60c2766fde
-[12-06-2021 12:33:04] Checking ffdfa335690c3db23c1acaa516f700cb8508eb
-[12-06-2021 12:33:04] Checking 8e2691e839f1d7cb9a2574ff7d9a4b0d97b457
-[12-06-2021 12:33:04] Checking 7f2965781ab71a313322461e1729f9fc81511a
-[12-06-2021 12:33:04] Checking 1c2eea44be5aed2894f46a035650ab81834bc1
-[12-06-2021 12:33:04] Checking c1614699d49458019511745a3c790a4c17fdd2
-[12-06-2021 12:33:04] Checking a157d83494f4f77c18fcd49d48c68f42f500a8
-[12-06-2021 12:33:04] Checking d284e7646f0e262593387ae3a21573f7512daa
-[12-06-2021 12:33:04] Checking 5f743025da96e28cb9a6309188a4a3bfaa1161
-[12-06-2021 12:33:04] Checking 778eb585875d6d0d0f4329819c87b081e69f53
-[12-06-2021 12:33:04] Checking 1c709bcc491dbbb810d29e715eb6f8b56398a6
-[12-06-2021 12:33:04] Checking 51627dfe6884eaafdf2d9db4abbcc1e48eec08
-[12-06-2021 12:33:04] Checking ce0fb1d29082ac27dde15667c031705ef46f46
-[12-06-2021 12:33:04] Checking c4676d784cdb8b318c079291b06ab3f5432a90
-[12-06-2021 12:33:04] Checking f1a5d8b02571d564d9133222d7132c31f9e218
-[12-06-2021 12:33:04] Checking 99163ada698e399c2afb56158bf91f5bd30152
-[12-06-2021 12:33:04] Checking 53c309e70a620ca750d4324f4583231c4ad522
-[12-06-2021 12:33:04] Checking 1175ddd08a2e17bc38b910cc345ce039802b85
-[12-06-2021 12:33:04] Checking cf5b45336a69a84c79458e0095ea5b5bd5162d
-[12-06-2021 12:33:04] Checking 5713808975ba06982e19eb24e549016bea3f11
-[12-06-2021 12:33:04] Checking cc31cc9147a8088a25427430f03746c2d5110b
-[12-06-2021 12:33:04] Checking 5c89584a30c98eac589dfb4397093b207b844c
-[12-06-2021 12:33:04] Checking 766760ea2bf4d9ef26434e6b29f091c8c565d2
-[12-06-2021 12:33:04] Checking 0e7b2fbc78542a0f67989dc0e3238f46fc1b8d
-[12-06-2021 12:33:04] Checking cbabb7357ce8ee1a4597363d4e2e1442cad7da
-[12-06-2021 12:33:04] Checking 7e0afcd377b14b1a51dd4cbb58b5b78d53ce49
-[12-06-2021 12:33:04] Checking 720a81a9b38c8630ea133513b3b0ba31839d99
-[12-06-2021 12:33:04] Checking c82a52085388e5d9b78dee2581b1dc83b43c85
-[12-06-2021 12:33:04] Checking 3b00efbb7398a9f41be1eb0ec3f69b9c7264c4
-[12-06-2021 12:33:04] Checking 8348ea53f78395ef0241542a2bd87456daa39d
-[12-06-2021 12:33:04] Checking 4a9c5c6b73b5f229c4428962eea8789dff5701
-[12-06-2021 12:33:04] Checking 78896d62df612ac216109a60fbcf94d12ef03d
-[12-06-2021 12:33:04] Checking 6e52ab9ba3d16900637e4d399dbc1ac62a32d7
-[12-06-2021 12:33:04] Checking 06846ed4330601a362cfc5c633690ac24f43e0
-[12-06-2021 12:33:04] Checking c2d6fa89ddf18148b108e2253ac46b6b637ecd
-[12-06-2021 12:33:04] Checking 783c7f62d7ac8fbfe65616e1390fb998279576
-[12-06-2021 12:33:04] Checking 69b683b04a88dd0f53ac70147c4cb343b04f85
-[12-06-2021 12:33:04] Checking 5e4545db0bddf4c290d112ac62d52ce96ba845
-[12-06-2021 12:33:04] Checking 76508d9d005520eb360cc8d1de61b894be4c9b
-[12-06-2021 12:33:04] Checking 6f62f0f873720566a436fc9fed681104cf8b33
-[12-06-2021 12:33:04] Checking 3f5d4107625fe55476671a2d3d69008ea906ef
-[12-06-2021 12:33:04] Checking 2def9f55649740ed82bc7e02f377adcab89907
-[12-06-2021 12:33:04] Checking 0578eb4b24014e7593bee9d8bd09e45e5e06f5
-[12-06-2021 12:33:04] Checking 64e8ca296889bb7d5ddabc266ad6dc04c936b2
-[12-06-2021 12:33:04] Checking 49e5f87af7fd4fc3c05bf3ea53f7239ac9f757
-[12-06-2021 12:33:04] Checking 487df6de7c71b88f740407c5de16827da9b3b9
-[12-06-2021 12:33:04] Checking 00f6dbdb01fcdf8214238ef95697ffeb50a2ca
-[12-06-2021 12:33:04] Checking f52a8d6bff6971d96d8b7cd6fd1da70810a1f8
-[12-06-2021 12:33:04] Checking cc2813fdc8607a2da3c3baf92814866bae8d24
-[12-06-2021 12:33:04] Checking 39c651446608234f202c72f1c43a4698c887de
-[12-06-2021 12:33:04] Checking 54b048248eb39e6920a617718a021b4324e8b5
-[12-06-2021 12:33:04] Checking a07e535257beb5592bd61eb809d933d30ff61a
-[12-06-2021 12:33:04] Checking cf879c402863978bafe6903f817821407bb4b0
-[12-06-2021 12:33:04] Checking 9bf4d09a1ee78e6bf2c8be90a81acaf443755a
-[12-06-2021 12:33:04] Checking 7cefb1047f602619a2acfc471cbae7d92acb4b
-[12-06-2021 12:33:04] Checking 2e1a3204c7ddaceae7a6a465d7893eca098336
-[12-06-2021 12:33:04] Checking 22dcfab5c8a5ff95c3adf8d488aa9e24f610bf
-[12-06-2021 12:33:04] Checking 8779d2a2106b6a96b0c74c56880e3d9fbd870c
-[12-06-2021 12:33:04] Checking ee641afb76a3253bc8e9691baa21693dd94f15
-[12-06-2021 12:33:04] Checking 60280243b67419fa0e3a1fb510078032f464a0
-[12-06-2021 12:33:04] Checking 2c894b519048317fb51fbac3a12d3ee799e9c8
-[12-06-2021 12:33:04] Checking 0d8fa2b6975ed83df7a205c69cc0deb0fc296f
-[12-06-2021 12:33:04] Checking db265820d65f006a3c28d1c95a44952696a1b7
-[12-06-2021 12:33:04] Checking 2dd0a7c1366161aa8e80b498d2885adbf139fa
-[12-06-2021 12:33:04] Checking e67e03e9f2e128b3e7b08491cff67c726f3f3e
-[12-06-2021 12:33:04] Checking bf99d5475ca52e702fc98ba7f4c42b72e8643b
-[12-06-2021 12:33:04] Checking 9b7deb95239e3362cfce150031ab7ece2fa213
-[12-06-2021 12:33:04] Checking 5328857df157ec5db1a4b5b29e832120a44d8c
-[12-06-2021 12:33:04] Checking b8f1bb5a2f686f535ce6fed7d8715b69cfbd34
-[12-06-2021 12:33:04] Checking e69123b418f1ed5800386ae1b9c02d49999971
-[12-06-2021 12:33:04] Checking 92355e83790eca6208c2bcd659d75e188749ec
-[12-06-2021 12:33:04] Checking 8dcb43db991194457610596d94dfe8818834ce
-[12-06-2021 12:33:04] Checking e7d3f22b46ed144adc356aa038faf7ba008508
-[12-06-2021 12:33:04] Checking 7477c461a789bbfe61b3a9828f3554e2b260e1
-[12-06-2021 12:33:04] Checking 9d50debfb7a45c7b19ece5950495f10795c101
-[12-06-2021 12:33:04] Checking 03af8bedf9f673e46f0d787ac1d3a5bc1bf7a8
-[12-06-2021 12:33:04] Checking f533e0428966aee53cc1ac5f08a04f3f9aad68
-[12-06-2021 12:33:04] Checking 5c9fc382a57a22e69d4b2790f03d3ccdba9502
-[12-06-2021 12:33:04] Checking a59afa84ffdb74b55024c5c928a8abc09b71b6
-[12-06-2021 12:33:04] Checking 7eccc0e30f233501180b87d055833a085896ad
-[12-06-2021 12:33:04] Checking aa22fcc0f6ceb2639a3ce5c71bec025500bfe7
-[12-06-2021 12:33:04] Checking a3460a8e669c5e2c3d94528cba49c5eeb760d4
-[12-06-2021 12:33:04] Checking 956737aa52b800275244f72ea111abf3a5a1c3
-[12-06-2021 12:33:04] Checking 14d0a6a87b274905e8748a4e122e7163c6ecd8
-[12-06-2021 12:33:04] Checking d90bc9f9ee6fa2483e77b2d8b18d347abf5e44
-[12-06-2021 12:33:04] Checking cd5f16f2a42277a01d94bf5530d314e2fa9014
-[12-06-2021 12:33:04] Checking f0ab8f99257462d7d661d3fe6073e16a05bdb5
-[12-06-2021 12:33:04] Checking 08169e092faea23b2c8c2e5c8b753ec316d21e
-[12-06-2021 12:33:04] Checking a7d667b863a1c915d713462527f2162463b83e
-[12-06-2021 12:33:04] Checking a247785128ad653fe774e2565a631b34c0cb9f
-[12-06-2021 12:33:04] Checking 8f24effab33903ec02fd5aaa1723749cabe399
-[12-06-2021 12:33:04] Checking 540cc69ef8e326292d503e0f795d731cee5b5b
-[12-06-2021 12:33:04] Checking acc76451a961ade52b2919f950bbb65275d906
-[12-06-2021 12:33:04] Checking ee7af8129eea39903cf8788c058dd5155fce9e
-[12-06-2021 12:33:04] Checking b978381d0c2a50cc0ea1e43a104bafedf6688d
-[12-06-2021 12:33:04] Checking a13f35c9ee0a92c1bb2402bf5dedb5a5861198
-[12-06-2021 12:33:04] Checking 026d940e8866907a4f9315356102c0f54359ac
-[12-06-2021 12:33:04] Checking 2cfc48569662716a51dad27128283c851f5428
-[12-06-2021 12:33:04] Checking 925c3bbfdd097bcfd321d1da437ddd8ccd9be9
-[12-06-2021 12:33:04] Checking 1a76ff940a07a92784b5b5956697650da7501c
-[12-06-2021 12:33:04] Checking 5f05b6127ba50515a6583f0c80db955340ef20
-[12-06-2021 12:33:04] Checking 46c00af691d0b947c3f7ebe89ba14f950d2a2a
-[12-06-2021 12:33:04] Checking 04959474bc6c150ce8cb62ee8010b2e3dccf30
-[12-06-2021 12:33:04] Checking 934dbf2f93a43b6fa650ca9a942c42ccc18894
-[12-06-2021 12:33:04] Checking 7b3bd0abe46d3f113ceb3223ef285ba242d27c
-[12-06-2021 12:33:04] Checking 7052c286429b51d9b71b2c61a57a7ae92cae09
-[12-06-2021 12:33:04] Checking 4474e7313b0c4aab36a3e9f2e8491b534c4d8d
-[12-06-2021 12:33:04] Checking 31614a66ff4403f3d64f42eab8bdc26d590329
-[12-06-2021 12:33:04] Checking cd8e177ade3866d75f8d96492a04e41214cf51
-[12-06-2021 12:33:04] Checking e4d12a687fbdae6bec6638bdf58fb5522065fd
-[12-06-2021 12:33:04] Checking 410ae94573cf8ff0983358b51e22d893789907
-[12-06-2021 12:33:04] Checking 2b68860a28c93dfe967c090b4a59e570bf94dc
-[12-06-2021 12:33:04] Checking 62521c463dcde49a1e75f19ca80b5f0025af4f
-[12-06-2021 12:33:04] Checking 38faba21b925801d04e91f935036042ddba8fd
-[12-06-2021 12:33:04] Checking db4e0fffb89a14e1c1c958a0d103b16943654c
-[12-06-2021 12:33:04] Checking ae5242da76db032a654638ec5bf2e7a9012972
-[12-06-2021 12:33:04] Checking 469de8268c06424c8759ba96c915699f800c29
-[12-06-2021 12:33:04] Checking 0b1fbc83b131b2ad3d1c773478711a5009e13d
-[12-06-2021 12:33:04] Checking 19097cc6b7d0c4fd1f7d55e8c7f8aec1a34342
-[12-06-2021 12:33:04] Checking 9d70ff7f42f0fbef9ad77a14c706c8ebab28bc
-[12-06-2021 12:33:04] Checking 9001498e3ccd3e83fdadeee45f2ff8d54126f0
-[12-06-2021 12:33:04] Checking 7327385f2bf214987ce5cc7437a0f3c58f8189
-[12-06-2021 12:33:04] Checking e1889bed427f99a7ef2f87f911c36701fff16a
-[12-06-2021 12:33:04] Checking 74b8b937f04bcd0a95cf8afc51ff229be7be27
-[12-06-2021 12:33:04] Checking 618ff746830a8b853caed6f52475b06cf644df
-[12-06-2021 12:33:04] Checking d3130bf57ecf47e262be296ba7c02b4099b3f9
-[12-06-2021 12:33:04] Checking ccc5a07b9e09415be13fd1e06db8e62c9709ac
-[12-06-2021 12:33:04] Checking a5599b382ae013d159e3439119bced176c74cb
-[12-06-2021 12:33:04] Checking 6b550fab0a608cc2b4c9b48c5380266a33b418
-[12-06-2021 12:33:04] Checking 5117cf8715cdc57340c5657906f57ca42dbef7
-[12-06-2021 12:33:04] Checking fef843fa7796e36577226190cb018142784643
-[12-06-2021 12:33:04] Checking e6ed835f5d9f2ea78137e422ea0ae8c3dc5a63
-[12-06-2021 12:33:04] Checking e65dc6faaa39a67cb6e46dfe428376344668f9
-[12-06-2021 12:33:04] Checking 836d33c056a0427556d0a2118ebafe1403c033
-[12-06-2021 12:33:04] Checking e8d52926b3474fc4c46ad3fd9a09f314bae260
-[12-06-2021 12:33:04] Checking e5c62589436d49ba5e00baabe99af544f67158
-[12-06-2021 12:33:04] Checking bc9def1ef42a7246953e9e5cccf05250e19854
-[12-06-2021 12:33:04] Checking a1cc6d24d518ce73b54673d149ddc4e694b582
-[12-06-2021 12:33:04] Checking be6570386008dd231638e493fa56180f805b46
-[12-06-2021 12:33:04] Checking c188be2b50cd47b60e9ad02f538a98a3e6b410
-[12-06-2021 12:33:04] Checking 201fd142246a15cc0555f56be50eb14d2c17aa
-[12-06-2021 12:33:04] Checking 8d3cb15b70a24cd0b42baa63924d2a6f4b55e8
-[12-06-2021 12:33:04] Checking fdefce1d0d3476e71a307dbeffd4754d1b1f41
-[12-06-2021 12:33:04] Checking ca71d3c87a3cfe954259769441d29634998223
-[12-06-2021 12:33:04] Checking b40929466f263da4da4cd7e89f83d351d4eb92
-[12-06-2021 12:33:04] Checking 6d666442f5203a6b6447b09d0e2513e26647e2
-[12-06-2021 12:33:04] Checking 374bd92519b756e6751c7e1a1f49e962e40cb4
-[12-06-2021 12:33:04] Checking 4b1d47dae522fc6a57aa6f821ad48bcc058474
-[12-06-2021 12:33:04] Checking 01339091f47f9380f23253ddbc445b1fde8729
-[12-06-2021 12:33:04] Checking 7a59d5d7fb16f667da4b2f1e69dba4712d90d2
-[12-06-2021 12:33:04] Checking dff2f38f2115909f4b51925d4b38fd9476e314
-[12-06-2021 12:33:04] Checking 9da110667e722ca2a8823da1ff233e04b8f5c7
-[12-06-2021 12:33:04] Checking 0ab5e464f47252af8467a0712a9df8f7b499dd
-[12-06-2021 12:33:04] Checking d594057ae1b4d3bebb9ccf53b8620a54c56776
-[12-06-2021 12:33:04] Checking 665f4186970e98bdcd852269aa7cc7aa9764aa
-[12-06-2021 12:33:04] Checking 3a465ab017b79281b9d4b0815499730cca59d2
-[12-06-2021 12:33:04] Checking 97f360d44b4478cd0bacfb3a4fc6fdefe6df86
-[12-06-2021 12:33:04] Checking 7db2bcfd9eac4e4efb057e1fdd31285a0a73b8
-[12-06-2021 12:33:04] Checking 41ef123fd8d36565009be90c5a3b7eb56fda05
-[12-06-2021 12:33:04] Checking cc7f63b09664e6cb747312a2d38d6265932ffd
-[12-06-2021 12:33:04] Checking 1812166c7aee3b1005e0023616cabc69f46eca
-[12-06-2021 12:33:04] Checking cabe35ce1172ff895d3f08db20aecc33ac1594
-[12-06-2021 12:33:04] Checking ad8133ab6f6d82d7e1dd8dff92d70b2c301c13
-[12-06-2021 12:33:04] Checking a02baea936cb5329ee572c107b853d45d6e0e2
-[12-06-2021 12:33:04] Checking 65cb178728eccffaadb121b2bca38c6960b410
-[12-06-2021 12:33:04] Checking 889e1cccf5da547426ea84259692ef0bfcc128
-[12-06-2021 12:33:04] Checking f12e10f8f3a57732836cc6e41b7410512ae031
-[12-06-2021 12:33:04] Checking fde4a1cdda33b0dd69194d10d374776b378329
-[12-06-2021 12:33:04] Checking e35e32fb74f29a564a2b8f68b26fed76a028e8
-[12-06-2021 12:33:04] Checking aa066e907b1cb84b77c8b89133fa5ae187f885
-[12-06-2021 12:33:04] Checking 0d45c5aecc2065803c9134d6f2d781e4e40e01
-[12-06-2021 12:33:04] Checking 051e59311b50ad56a397c9a13be0a2f4889d91
-[12-06-2021 12:33:04] Checking 89481dcf6db399cb6befe6cdfb473c98b617b4
-[12-06-2021 12:33:04] Checking cbeb8c1fd9770cf0e956c79abea61b97268d7e
-[12-06-2021 12:33:04] Checking a06dba85ecee55ccbc4da9f53f42221b8d6b24
-[12-06-2021 12:33:04] Checking 6ea95be547cee19ea27cc643c1b455f64b066d
-[12-06-2021 12:33:04] Checking 6756f080e76e667d887f8a34c9ba5041bdeef0
-[12-06-2021 12:33:04] Checking 507f8908f1cabfe89505f37138f00c8e56fea8
-[12-06-2021 12:33:04] Checking 4ac6152cd162ac5d08db93934ca359966d989a
-[12-06-2021 12:33:04] Checking bcd697f21b8803268f868101fc37066861a432
-[12-06-2021 12:33:04] Checking 99c2d25fc4f43d8ececcad9c8df9eff4b0e4cf
-[12-06-2021 12:33:04] Checking 5ee1a9a1bf42b0c1c7816bfeda0af5acac26f5
-[12-06-2021 12:33:04] Checking c6ae76233cdcd066ea81c0df56a22dcf7d6062
-[12-06-2021 12:33:04] Checking 1d7d0c67641776cc3710bcb559c8f62defc004
-[12-06-2021 12:33:04] Checking 36b74b845fce913112938b1627aa81a06438f3
-[12-06-2021 12:33:04] Checking 1192f66c56f96e26adf5c246f308de09d935fb
-[12-06-2021 12:33:04] Checking 0df6c215f6662b87f34f01cae62e54a2616472
-[12-06-2021 12:33:04] Checking fff10c53014aa075b088ddcc95b7aae605c8ba
-[12-06-2021 12:33:04] Checking 31bd1ebc02455de8a1a3d451cf9a10f1401f0f
-[12-06-2021 12:33:04] Checking 70ad3d5b43106ea7ccf39381319e901ff13035
-[12-06-2021 12:33:04] Checking e30a28f0d542c58e1a188a765e6437b721f07f
-[12-06-2021 12:33:04] Checking 9ae2d273bafbfa995fd19f49b1acebd8dff5dc
-[12-06-2021 12:33:04] Checking 108dd1577f4c08aea2e1c7463366ec28bf65fe
-[12-06-2021 12:33:04] Checking 0d08e1cf7d1343c2ab4c3e1c13d130b2ee09c8
-[12-06-2021 12:33:04] Checking ce5565ccf80775f23770f4f0bf612efc05d998
-[12-06-2021 12:33:04] Checking 06c96126074ca6695c42f596a884a36214ea7a
-[12-06-2021 12:33:04] Checking 86b9cc939b6271d45ac9bc8de4268217ab4036
-[12-06-2021 12:33:04] Checking 740e60e57ce79c03043c23b3959908747741a6
-[12-06-2021 12:33:04] Checking 50bfd07075ac43c19dc6cff1fdaf92a0a42995
-[12-06-2021 12:33:04] Checking 04d5afe9fd2653f347f6f6ed71daf406959ed3
-[12-06-2021 12:33:04] Checking 943fff3a954af1459da3ce523365e2e13628de
-[12-06-2021 12:33:04] Checking 4fc01128eda62ace12d8f75ed2a8b415c3f355
-[12-06-2021 12:33:04] Checking 46b4b6fc77ba9e38ce2ffbb383fc3341b71d28
-[12-06-2021 12:33:04] Checking 064f432fa9907d2f10ee58939f7c50eea3e728
-[12-06-2021 12:33:04] Checking ceede8a472faee09c33b1009ec19eb6d950886
-[12-06-2021 12:33:04] Checking 3ffc0e6abd2d05464ed3ac5dc8d218a9b7875f
-[12-06-2021 12:33:04] Checking 0a7028b4d9bd88d01d40451297388ef627acb0
-[12-06-2021 12:33:04] Checking cfcbf941fca402bca84016b09155d86afec0a6
-[12-06-2021 12:33:04] Checking e18032b7b4fca114923ac05fef6831595fedbd
-[12-06-2021 12:33:04] Checking d3f24eab35171914ba24f1b3213ce3fda5f4a2
-[12-06-2021 12:33:04] Checking c68ef959c384e9c5b62a9bd901acd27fa20923
-[12-06-2021 12:33:04] Checking af566738ab18346d38178e67741d27bb1a9b7c
-[12-06-2021 12:33:04] Checking b316ca75a88b80842f3425d1ebf3f4e178fd1e
-[12-06-2021 12:33:04] Checking 3329b8839a01a386720f4ff389da914009159b
-[12-06-2021 12:33:04] Checking 4d43272d98003475ed90fc73119b7438e950dc
-[12-06-2021 12:33:04] Checking 565df77b90eca3ee07847e115549a65465f885
-[12-06-2021 12:33:04] Checking a7743b0ba1133c176201cecf97a751707e39b4
-[12-06-2021 12:33:04] Checking 2547e457c31cab75bf4800aec145a12216d090
-[12-06-2021 12:33:04] Checking f6b74334c68ce9eb06287f81c0f031ada27b30
-[12-06-2021 12:33:04] Checking 3c580c2b01160ad8ed973664efbe1afcfff8ba
-[12-06-2021 12:33:04] Checking aca3abe2f30cc1be4334d4c641d375369060fb
-[12-06-2021 12:33:04] Checking 5761b5170923dd0d5e04609bb1d574dc0bda96
-[12-06-2021 12:33:04] Checking d09e4b4e565c61fbc8adceac0fa84a84c9f5f0
-[12-06-2021 12:33:04] Checking 6ae376e375e64955d7fa05073799544d155a9d
-[12-06-2021 12:33:04] Checking a6b0a2508fb9768308bcdbd136dc7ea5204872
-[12-06-2021 12:33:04] Checking 85acde700a7dfbfab34ee9d78912b094774d5c
-[12-06-2021 12:33:04] Checking 7c206710ad1041c9439e8630ed7d66f194fd31
-[12-06-2021 12:33:04] Checking 882b874655b6c5a27582cbdb9ba7c98bff3d1b
-[12-06-2021 12:33:04] Checking 6e4078ba159ab69d9a93bb6e1d7b5927449c6f
-[12-06-2021 12:33:04] Checking 2f084cea700948d9977858c4bb0852c471ec8a
-[12-06-2021 12:33:04] Checking 4827e31ad83889b6b51fd70a102c09284bd4ac
-[12-06-2021 12:33:04] Checking ee052942dc54b39ca18b7da99fe383dbe7c07d
-[12-06-2021 12:33:04] Checking 5b3944c2ee52b7f096138649b069b2ca4aba14
-[12-06-2021 12:33:04] Checking a653b297a62390621a7a8c76aab64ea7641806
-[12-06-2021 12:33:04] Checking 77947e765fadc21b1819374bc39262b51a9416
-[12-06-2021 12:33:04] Checking 2886101dbedcda94a9a4db01842768696b252b
-[12-06-2021 12:33:04] Checking 4ed0258e0781adbd4f8ca2c0f73317ce676e7b
-[12-06-2021 12:33:04] Checking 285939bdbe0804ac2ba4a840c417af8c5f1cf6
-[12-06-2021 12:33:04] Checking 877368382aed8d8d01b92914733b44bcef9114
-[12-06-2021 12:33:04] Checking 13e4e7dec6e4e4df710ee8b3e0f089f4c9c640
-[12-06-2021 12:33:04] Checking 42de55d9d8db3f205da4add9bddfe5c03ce8c5
-[12-06-2021 12:33:04] Checking 3398e391ee4b22d78e2422716cb0eb000e861a
-[12-06-2021 12:33:04] Checking a5af5808288f1a89570eae18d0a881e3e4cb61
-[12-06-2021 12:33:04] Checking 7e9061a8bb3a1ca0c914b652f40b5d2a7f9b1f
-[12-06-2021 12:33:04] Checking 403881ab63060c8423cc6f0facbe426d0add8e
-[12-06-2021 12:33:04] Checking 32b8ba1275c4ac0784aad38c590384a35b1cc0
-[12-06-2021 12:33:04] Checking 2f0c3a79bdaeabc590d9ba078c9e69dfd90f18
-[12-06-2021 12:33:04] Checking 95093742ecc42d91a37ebc0f45954b9127b411
-[12-06-2021 12:33:04] Checking 32c5c4aaa626a24e74dcd7ab4c5b08d7d869e8
-[12-06-2021 12:33:04] Checking 0566bdfddac1cf9ca72e33967a4ab126aa39e5
-[12-06-2021 12:33:04] Checking b7080a94d1ee8a13c9bb71b4ceb859b388691d
-[12-06-2021 12:33:04] Checking 9e21b54b2f2289c77e7fdf15919bec478b1d67
-[12-06-2021 12:33:04] Checking 72fb2d328ebc598af6ba291d25df6e2a5c087d
-[12-06-2021 12:33:04] Checking 56f0f4ebc94e585d9c8d38d0693097f4301da1
-[12-06-2021 12:33:04] Checking 38a73364a5d8bc7333bf6fb995f4508afa302f
-[12-06-2021 12:33:04] Checking 4639eef55bfbeedb183170b0610c099e2679e1
-[12-06-2021 12:33:04] Checking 87fc5de4fa6e07696e54fa0f0bfa87f41ae038
-[12-06-2021 12:33:04] Checking 4ee24741d514397da932dee3fc67b9ac02cec7
-[12-06-2021 12:33:04] Checking e11278fdbf3af78e444ff42152db17f0f3f61e
-[12-06-2021 12:33:04] Checking e060f351b0f11d8792d04a077e8a86e1e3dd2d
-[12-06-2021 12:33:04] Checking eabcd6e4feb34229f27c22fe52cec4a0a96534
-[12-06-2021 12:33:04] Checking 9dcfab15e0b683f3f74efd27d75e3a1f59bca0
-[12-06-2021 12:33:04] Checking 9c2283ae1708728651fe275f2cb5aaae510d24
-[12-06-2021 12:33:04] Checking 6f47b9c396c35c93771ae56f9f30d8944cf352
-[12-06-2021 12:33:04] Checking 48c4ddac0a1273d169fee4613e020093094794
-[12-06-2021 12:33:04] Checking ae04bc3c2bd62a9da37109ae4e8298fb66a4d7
-[12-06-2021 12:33:04] Checking fe1c2bc458747d37bee23ac6ac82e017d3fea4
-[12-06-2021 12:33:04] Checking 6fdfdd6f5dd7ec20d04b3a228f00b40ad5f97e
-[12-06-2021 12:33:04] Checking afa6d3c3c9ddf55a160cf11e22f4902ce43c78
-[12-06-2021 12:33:04] Checking c9fc243ef94d100d0b2e48cf2e2984dadb5573
-[12-06-2021 12:33:04] Checking b2456d6e6cf95c27838f83bdd71b644e7746bf
-[12-06-2021 12:33:04] Checking 36dd84905edfb8b2e6333616f963291babd4ef
-[12-06-2021 12:33:04] Checking a2cef8698e2c1d361642fc36a64662abe737e4
-[12-06-2021 12:33:04] Checking 2e211db8c1182c3242f645ced0a6ea3be57aa9
-[12-06-2021 12:33:04] Checking tags
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/tags
-[12-06-2021 12:33:04] Checking remotes
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/remotes
-[12-06-2021 12:33:04] Checking heads
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/heads
-[12-06-2021 12:33:04] Checking master
-[12-06-2021 12:33:04] Checking origin
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/remotes/origin
-[12-06-2021 12:33:04] Checking master
-[12-06-2021 12:33:04] Checking obj_wall
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall
-[12-06-2021 12:33:04] Checking obj_spawner
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner
-[12-06-2021 12:33:04] Checking obj_snekBody
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody
-[12-06-2021 12:33:04] Checking obj_snek
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek
-[12-06-2021 12:33:04] Checking obj_die
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_die
-[12-06-2021 12:33:04] Checking obj_dadCoin
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin
-[12-06-2021 12:33:04] Checking obj_controller
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller
-[12-06-2021 12:33:04] Checking obj_coinSnake
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake
-[12-06-2021 12:33:04] Checking obj_coinShark
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark
-[12-06-2021 12:33:04] Checking obj_coinLion
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion
-[12-06-2021 12:33:04] Checking obj_coinHorse
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse
-[12-06-2021 12:33:04] Checking obj_coinDrag
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag
-[12-06-2021 12:33:04] Checking obj_coinDog
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog
-[12-06-2021 12:33:04] Checking obj_coinChick
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick
-[12-06-2021 12:33:04] Checking obj_coinCat
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat
-[12-06-2021 12:33:04] Checking obj_coinCat.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat/obj_coinCat.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat/obj_coinCat.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat/obj_coinCat.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinCat
-[12-06-2021 12:33:04] Checking obj_coin2.yy
-[12-06-2021 12:33:04] Trash file: obj_coin2.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinChick.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick/obj_coinChick.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick/obj_coinChick.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick/obj_coinChick.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinChick
-[12-06-2021 12:33:04] Checking obj_coinCat.yy
-[12-06-2021 12:33:04] Trash file: obj_coinCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coin2.yy
-[12-06-2021 12:33:04] Trash file: obj_coin2.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinDog.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog/obj_coinDog.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog/obj_coinDog.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog/obj_coinDog.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinDog
-[12-06-2021 12:33:04] Checking obj_coinDrag.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag/obj_coinDrag.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag/obj_coinDrag.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag/obj_coinDrag.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinDrag
-[12-06-2021 12:33:04] Checking obj_coinDog.yy
-[12-06-2021 12:33:04] Trash file: obj_coinDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinHorse.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse/obj_coinHorse.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse/obj_coinHorse.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse/obj_coinHorse.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinHorse
-[12-06-2021 12:33:04] Checking obj_coinDog.yy
-[12-06-2021 12:33:04] Trash file: obj_coinDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinLion.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion/obj_coinLion.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion/obj_coinLion.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion/obj_coinLion.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinLion
-[12-06-2021 12:33:04] Checking obj_coinHorse.yy
-[12-06-2021 12:33:04] Trash file: obj_coinHorse.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinDog.yy
-[12-06-2021 12:33:04] Trash file: obj_coinDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinShark.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark/obj_coinShark.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark/obj_coinShark.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark/obj_coinShark.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinShark
-[12-06-2021 12:33:04] Checking obj_coinLion.yy
-[12-06-2021 12:33:04] Trash file: obj_coinLion.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinHorse.yy
-[12-06-2021 12:33:04] Trash file: obj_coinHorse.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinDog.yy
-[12-06-2021 12:33:04] Trash file: obj_coinDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinSnake.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake/obj_coinSnake.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake/obj_coinSnake.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake/obj_coinSnake.yy"
-[12-06-2021 12:33:04] Found Object: obj_coinSnake
-[12-06-2021 12:33:04] Checking obj_coinShark.yy
-[12-06-2021 12:33:04] Trash file: obj_coinShark.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinLion.yy
-[12-06-2021 12:33:04] Trash file: obj_coinLion.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinHorse.yy
-[12-06-2021 12:33:04] Trash file: obj_coinHorse.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking obj_coinDog.yy
-[12-06-2021 12:33:04] Trash file: obj_coinDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking Step_0.gml
-[12-06-2021 12:33:04] Checking obj_controller.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller/obj_controller.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller/obj_controller.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller/obj_controller.yy"
-[12-06-2021 12:33:04] Found Object: obj_controller
-[12-06-2021 12:33:04] Checking Create_0.gml
-[12-06-2021 12:33:04] Checking Alarm_0.gml
-[12-06-2021 12:33:04] Checking obj_dadCoin.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin/obj_dadCoin.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin/obj_dadCoin.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin/obj_dadCoin.yy"
-[12-06-2021 12:33:04] Found Object: obj_dadCoin
-[12-06-2021 12:33:04] Checking Step_0.gml
-[12-06-2021 12:33:04] Checking obj_die.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_die/obj_die.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_die/obj_die.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_die/obj_die.yy"
-[12-06-2021 12:33:04] Found Object: obj_die
-[12-06-2021 12:33:04] Checking obj_snek.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek/obj_snek.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek/obj_snek.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek/obj_snek.yy"
-[12-06-2021 12:33:04] Found Object: obj_snek
-[12-06-2021 12:33:04] Checking Destroy_0.gml
-[12-06-2021 12:33:04] Checking Create_0.gml
-[12-06-2021 12:33:04] Checking Collision_obj_wall.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinSnake.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinShark.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinLion.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinHorse.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinDrag.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinDog.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinChick.gml
-[12-06-2021 12:33:04] Checking Collision_obj_coinCat.gml
-[12-06-2021 12:33:04] Checking Alarm_0.gml
-[12-06-2021 12:33:04] Checking obj_snekBody.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody/obj_snekBody.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody/obj_snekBody.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody/obj_snekBody.yy"
-[12-06-2021 12:33:04] Found Object: obj_snekBody
-[12-06-2021 12:33:04] Checking Destroy_0.gml
-[12-06-2021 12:33:04] Checking Create_0.gml
-[12-06-2021 12:33:04] Checking Alarm_0.gml
-[12-06-2021 12:33:04] Checking obj_spawner.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner/obj_spawner.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner/obj_spawner.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner/obj_spawner.yy"
-[12-06-2021 12:33:04] Found Object: obj_spawner
-[12-06-2021 12:33:04] Checking Create_0.gml
-[12-06-2021 12:33:04] Checking Alarm_8.gml
-[12-06-2021 12:33:04] Checking obj_wall.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall/obj_wall.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall/obj_wall.yy
-[12-06-2021 12:33:04] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall/obj_wall.yy"
-[12-06-2021 12:33:04] Found Object: obj_wall
-[12-06-2021 12:33:04] Checking windows
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/options/windows
-[12-06-2021 12:33:04] Checking main
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/options/main
-[12-06-2021 12:33:04] Checking mac
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/options/mac
-[12-06-2021 12:33:04] Checking linux
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/options/linux
-[12-06-2021 12:33:04] Checking options_linux.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/options/linux/options_linux.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/options/linux/options_linux.yy
-[12-06-2021 12:33:04] Checking options_mac.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/options/mac/options_mac.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/options/mac/options_mac.yy
-[12-06-2021 12:33:04] Checking options_main.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/options/main/options_main.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/options/main/options_main.yy
-[12-06-2021 12:33:04] Checking options_windows.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/options/windows/options_windows.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/options/windows/options_windows.yy
-[12-06-2021 12:33:04] Checking rm_test
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test
-[12-06-2021 12:33:04] Checking rm_death
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death
-[12-06-2021 12:33:04] Checking rm_test.yy
-[12-06-2021 12:33:04] Trash file: rm_test.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking rm_death.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death/rm_death.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death/rm_death.yy
-[12-06-2021 12:33:04] Par: "folders/Rooms" at dir: "C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death/rm_death.yy"
-[12-06-2021 12:33:04] Found Room: rm_death
-[12-06-2021 12:33:04] Checking rm_test.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test/rm_test.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test/rm_test.yy
-[12-06-2021 12:33:04] Par: "folders/Rooms" at dir: "C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test/rm_test.yy"
-[12-06-2021 12:33:04] Found Room: rm_test
-[12-06-2021 12:33:04] Checking scr_spawn
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn
-[12-06-2021 12:33:04] Checking scr_move
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move
-[12-06-2021 12:33:04] Checking scr_death
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death
-[12-06-2021 12:33:04] Checking scr_death.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death/scr_death.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death/scr_death.yy
-[12-06-2021 12:33:04] Par: "folders/Scripts" at dir: "C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death/scr_death.yy"
-[12-06-2021 12:33:04] Found Script: scr_death
-[12-06-2021 12:33:04] Checking scr_death.gml
-[12-06-2021 12:33:04] Checking scr_move.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move/scr_move.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move/scr_move.yy
-[12-06-2021 12:33:04] Par: "folders/Scripts" at dir: "C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move/scr_move.yy"
-[12-06-2021 12:33:04] Found Script: scr_move
-[12-06-2021 12:33:04] Checking scr_move.gml
-[12-06-2021 12:33:04] Checking scr_spawn.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn/scr_spawn.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn/scr_spawn.yy
-[12-06-2021 12:33:04] Par: "folders/Scripts" at dir: "C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn/scr_spawn.yy"
-[12-06-2021 12:33:04] Found Script: scr_spawn
-[12-06-2021 12:33:04] Checking scr_spawn.gml
-[12-06-2021 12:33:04] Checking spr_wall
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall
-[12-06-2021 12:33:04] Checking spr_headStart
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart
-[12-06-2021 12:33:04] Checking spr_headSnake
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake
-[12-06-2021 12:33:04] Checking spr_headShark
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark
-[12-06-2021 12:33:04] Checking spr_headLion
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion
-[12-06-2021 12:33:04] Checking spr_headHorse
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse
-[12-06-2021 12:33:04] Checking spr_headDrag
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag
-[12-06-2021 12:33:04] Checking spr_headDog
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog
-[12-06-2021 12:33:04] Checking spr_headChick
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick
-[12-06-2021 12:33:04] Checking spr_headCat
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat
-[12-06-2021 12:33:04] Checking spr_coinSnake
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake
-[12-06-2021 12:33:04] Checking spr_coinShark
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark
-[12-06-2021 12:33:04] Checking spr_coinLion
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion
-[12-06-2021 12:33:04] Checking spr_coinHorse
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse
-[12-06-2021 12:33:04] Checking spr_coinDrag
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag
-[12-06-2021 12:33:04] Checking spr_coinDog
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog
-[12-06-2021 12:33:04] Checking spr_coinChick
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick
-[12-06-2021 12:33:04] Checking spr_coinCat
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat
-[12-06-2021 12:33:04] Checking spr_bodySnake
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake
-[12-06-2021 12:33:04] Checking spr_bodyShark
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark
-[12-06-2021 12:33:04] Checking spr_bodyLion
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion
-[12-06-2021 12:33:04] Checking spr_bodyHorse
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse
-[12-06-2021 12:33:04] Checking spr_bodyDrag
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag
-[12-06-2021 12:33:04] Checking spr_bodyDog
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog
-[12-06-2021 12:33:04] Checking spr_bodyChick
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick
-[12-06-2021 12:33:04] Checking spr_bodyCat
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat
-[12-06-2021 12:33:04] Checking spr_bodyCat.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/spr_bodyCat.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/spr_bodyCat.yy
-[12-06-2021 12:33:04] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/spr_bodyCat.yy"
-[12-06-2021 12:33:04] Found Sprite: spr_bodyCat
-[12-06-2021 12:33:04] Checking spr_body1.yy
-[12-06-2021 12:33:04] Trash file: spr_body1.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking layers
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/layers
-[12-06-2021 12:33:04] Checking 20a9bebb-ab79-4e5e-9ee8-946d13e8032b.png
-[12-06-2021 12:33:04] Checking 20a9bebb-ab79-4e5e-9ee8-946d13e8032b
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/layers/20a9bebb-ab79-4e5e-9ee8-946d13e8032b
-[12-06-2021 12:33:04] Checking 2aa613d0-d942-4a4d-9735-7d0cea62bdb9.png
-[12-06-2021 12:33:04] Checking spr_bodySnake.yy
-[12-06-2021 12:33:04] Trash file: spr_bodySnake.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking spr_bodyChick.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/spr_bodyChick.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/spr_bodyChick.yy
-[12-06-2021 12:33:04] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/spr_bodyChick.yy"
-[12-06-2021 12:33:04] Found Sprite: spr_bodyChick
-[12-06-2021 12:33:04] Checking layers
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/layers
-[12-06-2021 12:33:04] Checking a1d3daef-b068-4537-bfb0-b11dcd166690.png
-[12-06-2021 12:33:04] Checking a1d3daef-b068-4537-bfb0-b11dcd166690
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/layers/a1d3daef-b068-4537-bfb0-b11dcd166690
-[12-06-2021 12:33:04] Checking e6ed69c7-5262-4c31-8070-afb5efe84a66.png
-[12-06-2021 12:33:04] Checking spr_bodyDog.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/spr_bodyDog.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/spr_bodyDog.yy
-[12-06-2021 12:33:04] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/spr_bodyDog.yy"
-[12-06-2021 12:33:04] Found Sprite: spr_bodyDog
-[12-06-2021 12:33:04] Checking layers
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/layers
-[12-06-2021 12:33:04] Checking 0d7964a7-8906-4c0f-a0b7-7047fa352fa3.png
-[12-06-2021 12:33:04] Checking 0d7964a7-8906-4c0f-a0b7-7047fa352fa3
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/layers/0d7964a7-8906-4c0f-a0b7-7047fa352fa3
-[12-06-2021 12:33:04] Checking 0d8ccd5b-dce7-4a83-ad73-37740c5ddeae.png
-[12-06-2021 12:33:04] Checking spr_bodyDrag.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/spr_bodyDrag.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/spr_bodyDrag.yy
-[12-06-2021 12:33:04] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/spr_bodyDrag.yy"
-[12-06-2021 12:33:04] Found Sprite: spr_bodyDrag
-[12-06-2021 12:33:04] Checking spr_bodyDog.yy
-[12-06-2021 12:33:04] Trash file: spr_bodyDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking layers
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/layers
-[12-06-2021 12:33:04] Checking d9d4174c-14e1-45a5-aee6-86ae263ad81f.png
-[12-06-2021 12:33:04] Checking d9d4174c-14e1-45a5-aee6-86ae263ad81f
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/layers/d9d4174c-14e1-45a5-aee6-86ae263ad81f
-[12-06-2021 12:33:04] Checking bfd2fe04-3578-4950-a324-50d6cf8214a1.png
-[12-06-2021 12:33:04] Checking spr_bodySnake.yy
-[12-06-2021 12:33:04] Trash file: spr_bodySnake.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:04] Checking spr_bodyHorse.yy
-[12-06-2021 12:33:04] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/spr_bodyHorse.yy
-[12-06-2021 12:33:04] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/spr_bodyHorse.yy
-[12-06-2021 12:33:04] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/spr_bodyHorse.yy"
-[12-06-2021 12:33:04] Found Sprite: spr_bodyHorse
-[12-06-2021 12:33:04] Checking layers
-[12-06-2021 12:33:04] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/layers
-[12-06-2021 12:33:04] Checking 1c7eb8c8-309b-4295-8f27-0ca02530af87.png
-[12-06-2021 12:33:05] Checking 1c7eb8c8-309b-4295-8f27-0ca02530af87
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/layers/1c7eb8c8-309b-4295-8f27-0ca02530af87
-[12-06-2021 12:33:05] Checking e2d34df8-1f59-4a6c-af2d-c7238d3db80b.png
-[12-06-2021 12:33:05] Checking spr_bodySnake.yy
-[12-06-2021 12:33:05] Trash file: spr_bodySnake.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_bodyLion.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/spr_bodyLion.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/spr_bodyLion.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/spr_bodyLion.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_bodyLion
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/layers
-[12-06-2021 12:33:05] Checking 50413afc-6de1-4af4-9c3a-46a0568f5aee.png
-[12-06-2021 12:33:05] Checking 50413afc-6de1-4af4-9c3a-46a0568f5aee
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/layers/50413afc-6de1-4af4-9c3a-46a0568f5aee
-[12-06-2021 12:33:05] Checking b5db8efb-5c2e-4d68-bb52-87b1af96079e.png
-[12-06-2021 12:33:05] Checking spr_bodyShark.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/spr_bodyShark.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/spr_bodyShark.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/spr_bodyShark.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_bodyShark
-[12-06-2021 12:33:05] Checking spr_bodyCat.yy
-[12-06-2021 12:33:05] Trash file: spr_bodyCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_body1.yy
-[12-06-2021 12:33:05] Trash file: spr_body1.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/layers
-[12-06-2021 12:33:05] Checking 38d09e51-454f-425a-979f-431dbe9fd1c5.png
-[12-06-2021 12:33:05] Checking 38d09e51-454f-425a-979f-431dbe9fd1c5
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/layers/38d09e51-454f-425a-979f-431dbe9fd1c5
-[12-06-2021 12:33:05] Checking 123e6226-29ea-4364-910c-4bf76a9b44da.png
-[12-06-2021 12:33:05] Checking spr_bodySnake.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/spr_bodySnake.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/spr_bodySnake.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/spr_bodySnake.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_bodySnake
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/layers
-[12-06-2021 12:33:05] Checking d9df735e-4e7a-4e90-9cb1-32586d72723f.png
-[12-06-2021 12:33:05] Checking d9df735e-4e7a-4e90-9cb1-32586d72723f
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/layers/d9df735e-4e7a-4e90-9cb1-32586d72723f
-[12-06-2021 12:33:05] Checking 11f85015-2ba0-4acd-be84-8bbc1be2381e.png
-[12-06-2021 12:33:05] Checking spr_testFruit.yy
-[12-06-2021 12:33:05] Trash file: spr_testFruit.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_coinCat.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/spr_coinCat.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/spr_coinCat.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/spr_coinCat.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinCat
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/layers
-[12-06-2021 12:33:05] Checking 9454c68e-f1c9-4d3d-abfc-dcd9ea4fcd09.png
-[12-06-2021 12:33:05] Checking 9454c68e-f1c9-4d3d-abfc-dcd9ea4fcd09
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/layers/9454c68e-f1c9-4d3d-abfc-dcd9ea4fcd09
-[12-06-2021 12:33:05] Checking 087bda39-f26a-4f66-a9dd-1c9871bab312.png
-[12-06-2021 12:33:05] Checking spr_coinChick.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/spr_coinChick.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/spr_coinChick.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/spr_coinChick.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinChick
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/layers
-[12-06-2021 12:33:05] Checking edb0f606-811d-41c1-8fbf-a16d43e204da.png
-[12-06-2021 12:33:05] Checking edb0f606-811d-41c1-8fbf-a16d43e204da
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/layers/edb0f606-811d-41c1-8fbf-a16d43e204da
-[12-06-2021 12:33:05] Checking 4f23b8a8-2791-4534-9ac1-f4c0e4901c10.png
-[12-06-2021 12:33:05] Checking spr_coinDog.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/spr_coinDog.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/spr_coinDog.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/spr_coinDog.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinDog
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/layers
-[12-06-2021 12:33:05] Checking 8c839001-b494-4ffe-9803-3c8b744b42bd.png
-[12-06-2021 12:33:05] Checking 8c839001-b494-4ffe-9803-3c8b744b42bd
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/layers/8c839001-b494-4ffe-9803-3c8b744b42bd
-[12-06-2021 12:33:05] Checking b5d34b1e-5fa7-43c2-b23a-5bc0eb814218.png
-[12-06-2021 12:33:05] Checking spr_coinDrag.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/spr_coinDrag.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/spr_coinDrag.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/spr_coinDrag.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinDrag
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/layers
-[12-06-2021 12:33:05] Checking 6ae29d9b-8676-4ae1-945f-fdbd868b3040.png
-[12-06-2021 12:33:05] Checking 6ae29d9b-8676-4ae1-945f-fdbd868b3040
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/layers/6ae29d9b-8676-4ae1-945f-fdbd868b3040
-[12-06-2021 12:33:05] Checking a402e184-62fd-44d9-a3f5-f7c4a9962dbd.png
-[12-06-2021 12:33:05] Checking spr_coinHorse.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/spr_coinHorse.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/spr_coinHorse.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/spr_coinHorse.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinHorse
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/layers
-[12-06-2021 12:33:05] Checking 166cd430-a924-4808-b0e8-52a31b8b83be.png
-[12-06-2021 12:33:05] Checking 166cd430-a924-4808-b0e8-52a31b8b83be
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/layers/166cd430-a924-4808-b0e8-52a31b8b83be
-[12-06-2021 12:33:05] Checking 65b6c942-23c7-4d87-a050-9b934889660f.png
-[12-06-2021 12:33:05] Checking spr_coinLion.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/spr_coinLion.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/spr_coinLion.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/spr_coinLion.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinLion
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/layers
-[12-06-2021 12:33:05] Checking 0500c109-8293-466b-9637-eaeb3dc991d3.png
-[12-06-2021 12:33:05] Checking 0500c109-8293-466b-9637-eaeb3dc991d3
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/layers/0500c109-8293-466b-9637-eaeb3dc991d3
-[12-06-2021 12:33:05] Checking 0f5a43f7-d7a3-4edb-8b54-c54311a39a79.png
-[12-06-2021 12:33:05] Checking spr_coinShark.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/spr_coinShark.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/spr_coinShark.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/spr_coinShark.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinShark
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/layers
-[12-06-2021 12:33:05] Checking 2f56008e-6ed2-44ec-8e90-c9f5ce2e3446.png
-[12-06-2021 12:33:05] Checking 2f56008e-6ed2-44ec-8e90-c9f5ce2e3446
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/layers/2f56008e-6ed2-44ec-8e90-c9f5ce2e3446
-[12-06-2021 12:33:05] Checking 00fa9931-2ee6-409f-864a-b78cb3d8615d.png
-[12-06-2021 12:33:05] Checking spr_coinSnake.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/spr_coinSnake.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/spr_coinSnake.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/spr_coinSnake.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_coinSnake
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/layers
-[12-06-2021 12:33:05] Checking 1fe54bc5-7570-488a-8e1a-c3703b53668f.png
-[12-06-2021 12:33:05] Checking 1fe54bc5-7570-488a-8e1a-c3703b53668f
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/layers/1fe54bc5-7570-488a-8e1a-c3703b53668f
-[12-06-2021 12:33:05] Checking 79f70b97-c674-4c49-b123-40b0661f0dc7.png
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/spr_headCat.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/spr_headCat.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/spr_headCat.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headCat
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/layers
-[12-06-2021 12:33:05] Checking c7e6b2fb-2eb1-4d8f-98bd-723800b4983c.png
-[12-06-2021 12:33:05] Checking c7e6b2fb-2eb1-4d8f-98bd-723800b4983c
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/layers/c7e6b2fb-2eb1-4d8f-98bd-723800b4983c
-[12-06-2021 12:33:05] Checking ab33bbb4-a72e-4286-8f66-a88acdff469b.png
-[12-06-2021 12:33:05] Checking spr_headChick.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/spr_headChick.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/spr_headChick.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/spr_headChick.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headChick
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/layers
-[12-06-2021 12:33:05] Checking d5e0668b-f739-4a2a-bd55-d51152c51302.png
-[12-06-2021 12:33:05] Checking d5e0668b-f739-4a2a-bd55-d51152c51302
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/layers/d5e0668b-f739-4a2a-bd55-d51152c51302
-[12-06-2021 12:33:05] Checking 023338a2-5ea6-4cbe-9d5c-59f807c5f5ec.png
-[12-06-2021 12:33:05] Checking spr_headDog.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/spr_headDog.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/spr_headDog.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/spr_headDog.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headDog
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/layers
-[12-06-2021 12:33:05] Checking 042ee09a-a68d-404e-9747-73f54c0749df.png
-[12-06-2021 12:33:05] Checking 042ee09a-a68d-404e-9747-73f54c0749df
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/layers/042ee09a-a68d-404e-9747-73f54c0749df
-[12-06-2021 12:33:05] Checking 4ce2f5f6-3215-40f4-838f-46b27d352ae9.png
-[12-06-2021 12:33:05] Checking spr_headDrag.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/spr_headDrag.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/spr_headDrag.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/spr_headDrag.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headDrag
-[12-06-2021 12:33:05] Checking spr_headDog.yy
-[12-06-2021 12:33:05] Trash file: spr_headDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/layers
-[12-06-2021 12:33:05] Checking a6855b07-dd9a-4f28-ab0b-850078f71efe.png
-[12-06-2021 12:33:05] Checking a6855b07-dd9a-4f28-ab0b-850078f71efe
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/layers/a6855b07-dd9a-4f28-ab0b-850078f71efe
-[12-06-2021 12:33:05] Checking 503d4b49-5baa-4c25-a379-5982be2b9542.png
-[12-06-2021 12:33:05] Checking spr_headHorse.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/spr_headHorse.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/spr_headHorse.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/spr_headHorse.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headHorse
-[12-06-2021 12:33:05] Checking spr_headDog.yy
-[12-06-2021 12:33:05] Trash file: spr_headDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/layers
-[12-06-2021 12:33:05] Checking 3acfceae-6d3d-41c5-9709-9a139d1aa5cc.png
-[12-06-2021 12:33:05] Checking 3acfceae-6d3d-41c5-9709-9a139d1aa5cc
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/layers/3acfceae-6d3d-41c5-9709-9a139d1aa5cc
-[12-06-2021 12:33:05] Checking 34e9b44f-b8ce-4905-81f2-9580dd178325.png
-[12-06-2021 12:33:05] Checking spr_headLion.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/spr_headLion.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/spr_headLion.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/spr_headLion.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headLion
-[12-06-2021 12:33:05] Checking spr_headDog.yy
-[12-06-2021 12:33:05] Trash file: spr_headDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/layers
-[12-06-2021 12:33:05] Checking 801c5720-4c98-4943-b4a7-ad9bd7377e94.png
-[12-06-2021 12:33:05] Checking 801c5720-4c98-4943-b4a7-ad9bd7377e94
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/layers/801c5720-4c98-4943-b4a7-ad9bd7377e94
-[12-06-2021 12:33:05] Checking 6bcddeb6-0a03-4cb7-aef9-14656582f303.png
-[12-06-2021 12:33:05] Checking spr_headShark.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/spr_headShark.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/spr_headShark.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/spr_headShark.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headShark
-[12-06-2021 12:33:05] Checking spr_headDog.yy
-[12-06-2021 12:33:05] Trash file: spr_headDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/layers
-[12-06-2021 12:33:05] Checking b80f189a-d2e6-4035-b1c2-f6fb6534d3fb.png
-[12-06-2021 12:33:05] Checking b80f189a-d2e6-4035-b1c2-f6fb6534d3fb
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/layers/b80f189a-d2e6-4035-b1c2-f6fb6534d3fb
-[12-06-2021 12:33:05] Checking 8bdb38e8-c316-4b09-81fd-29440c462ca5.png
-[12-06-2021 12:33:05] Checking spr_headSnake.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/spr_headSnake.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/spr_headSnake.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/spr_headSnake.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headSnake
-[12-06-2021 12:33:05] Checking spr_headDog.yy
-[12-06-2021 12:33:05] Trash file: spr_headDog.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCentaur.yy
-[12-06-2021 12:33:05] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking spr_headCat.yy
-[12-06-2021 12:33:05] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/layers
-[12-06-2021 12:33:05] Checking 4b920238-363e-4329-b1f3-4ef0cd0dfc5a.png
-[12-06-2021 12:33:05] Checking 4b920238-363e-4329-b1f3-4ef0cd0dfc5a
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/layers/4b920238-363e-4329-b1f3-4ef0cd0dfc5a
-[12-06-2021 12:33:05] Checking 039547f2-91b4-476b-be36-ba7b4326b41b.png
-[12-06-2021 12:33:05] Checking spr_headStart.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/spr_headStart.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/spr_headStart.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/spr_headStart.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_headStart
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/layers
-[12-06-2021 12:33:05] Checking bd92f353-7369-479e-8c50-1fa64851a034.png
-[12-06-2021 12:33:05] Checking bd92f353-7369-479e-8c50-1fa64851a034
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/layers/bd92f353-7369-479e-8c50-1fa64851a034
-[12-06-2021 12:33:05] Checking 632bb1b2-e954-4a96-85ef-da0b95fddf44.png
-[12-06-2021 12:33:05] Checking spr_wall.yy
-[12-06-2021 12:33:05] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/spr_wall.yy
-[12-06-2021 12:33:05] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/spr_wall.yy
-[12-06-2021 12:33:05] Par: "folders/Sprites" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/spr_wall.yy"
-[12-06-2021 12:33:05] Found Sprite: spr_wall
-[12-06-2021 12:33:05] Checking layers
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/layers
-[12-06-2021 12:33:05] Checking 7cbeb05c-fd22-43ac-82f6-0bb4bcdb8538.png
-[12-06-2021 12:33:05] Checking 7cbeb05c-fd22-43ac-82f6-0bb4bcdb8538
-[12-06-2021 12:33:05] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/layers/7cbeb05c-fd22-43ac-82f6-0bb4bcdb8538
-[12-06-2021 12:33:05] Checking e0185637-ab0f-4f82-aad4-6697cbecce0b.png
-[12-06-2021 12:33:05] Moving files to trash...
-[12-06-2021 12:33:05] Files yeeted successfully!
-[12-06-2021 12:33:05] Generating YYP...
-[12-06-2021 12:33:05] Blit Jam.yyp created successfully!
+[12-06-2021 12:48:47] Initialized GameMaker Project: Blit Jam.yyp
+[12-06-2021 12:48:47] Checking ___yyp_maker_trash
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/___yyp_maker_trash
+[12-06-2021 12:48:47] Checking sprites
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites
+[12-06-2021 12:48:47] Checking scripts
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts
+[12-06-2021 12:48:47] Checking rooms
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/rooms
+[12-06-2021 12:48:47] Checking options
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/options
+[12-06-2021 12:48:47] Checking objects
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/objects
+[12-06-2021 12:48:47] Checking datafiles
+[12-06-2021 12:48:47] Reading Datafiles...
+[12-06-2021 12:48:47] Checking Blit Jam.yyp
+[12-06-2021 12:48:47] Found old YYP file: Blit Jam.yyp, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:47] Checking .git
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git
+[12-06-2021 12:48:47] Checking refs
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs
+[12-06-2021 12:48:47] Checking objects
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects
+[12-06-2021 12:48:47] Checking logs
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs
+[12-06-2021 12:48:47] Checking info
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/info
+[12-06-2021 12:48:47] Checking index
+[12-06-2021 12:48:47] Checking hooks
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/hooks
+[12-06-2021 12:48:47] Checking HEAD
+[12-06-2021 12:48:47] Checking FETCH_HEAD
+[12-06-2021 12:48:47] Checking description
+[12-06-2021 12:48:47] Checking config
+[12-06-2021 12:48:47] Checking COMMIT_EDITMSG
+[12-06-2021 12:48:47] Checking README.sample
+[12-06-2021 12:48:47] Checking exclude
+[12-06-2021 12:48:47] Checking refs
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs
+[12-06-2021 12:48:47] Checking HEAD
+[12-06-2021 12:48:47] Checking remotes
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs/remotes
+[12-06-2021 12:48:47] Checking heads
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs/heads
+[12-06-2021 12:48:47] Checking master
+[12-06-2021 12:48:47] Checking origin
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/logs/refs/remotes/origin
+[12-06-2021 12:48:47] Checking master
+[12-06-2021 12:48:47] Checking pack
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/pack
+[12-06-2021 12:48:47] Checking info
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/info
+[12-06-2021 12:48:47] Checking fd
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fd
+[12-06-2021 12:48:47] Checking fc
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fc
+[12-06-2021 12:48:47] Checking fb
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fb
+[12-06-2021 12:48:47] Checking fa
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/fa
+[12-06-2021 12:48:47] Checking f9
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f9
+[12-06-2021 12:48:47] Checking f8
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f8
+[12-06-2021 12:48:47] Checking f7
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f7
+[12-06-2021 12:48:47] Checking f6
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f6
+[12-06-2021 12:48:47] Checking f5
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f5
+[12-06-2021 12:48:47] Checking f3
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f3
+[12-06-2021 12:48:47] Checking f1
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f1
+[12-06-2021 12:48:47] Checking f0
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/f0
+[12-06-2021 12:48:47] Checking ef
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ef
+[12-06-2021 12:48:47] Checking ee
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ee
+[12-06-2021 12:48:47] Checking ed
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ed
+[12-06-2021 12:48:47] Checking ec
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ec
+[12-06-2021 12:48:47] Checking ea
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ea
+[12-06-2021 12:48:47] Checking e9
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e9
+[12-06-2021 12:48:47] Checking e8
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e8
+[12-06-2021 12:48:47] Checking e7
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e7
+[12-06-2021 12:48:47] Checking e6
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e6
+[12-06-2021 12:48:47] Checking e5
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e5
+[12-06-2021 12:48:47] Checking e4
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e4
+[12-06-2021 12:48:47] Checking e3
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e3
+[12-06-2021 12:48:47] Checking e2
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e2
+[12-06-2021 12:48:47] Checking e0
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/e0
+[12-06-2021 12:48:47] Checking de
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/de
+[12-06-2021 12:48:47] Checking dd
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/dd
+[12-06-2021 12:48:47] Checking dc
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/dc
+[12-06-2021 12:48:47] Checking db
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/db
+[12-06-2021 12:48:47] Checking da
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/da
+[12-06-2021 12:48:47] Checking d9
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d9
+[12-06-2021 12:48:47] Checking d8
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d8
+[12-06-2021 12:48:47] Checking d6
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d6
+[12-06-2021 12:48:47] Checking d4
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d4
+[12-06-2021 12:48:47] Checking d3
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d3
+[12-06-2021 12:48:47] Checking d2
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d2
+[12-06-2021 12:48:47] Checking d1
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d1
+[12-06-2021 12:48:47] Checking d0
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/d0
+[12-06-2021 12:48:47] Checking ce
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ce
+[12-06-2021 12:48:47] Checking cd
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/cd
+[12-06-2021 12:48:47] Checking cb
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/cb
+[12-06-2021 12:48:47] Checking c9
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c9
+[12-06-2021 12:48:47] Checking c7
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c7
+[12-06-2021 12:48:47] Checking c5
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c5
+[12-06-2021 12:48:47] Checking c4
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c4
+[12-06-2021 12:48:47] Checking c3
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c3
+[12-06-2021 12:48:47] Checking c2
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c2
+[12-06-2021 12:48:47] Checking c1
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/c1
+[12-06-2021 12:48:47] Checking be
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/be
+[12-06-2021 12:48:47] Checking bd
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/bd
+[12-06-2021 12:48:47] Checking bb
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/bb
+[12-06-2021 12:48:47] Checking ba
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ba
+[12-06-2021 12:48:47] Checking b7
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b7
+[12-06-2021 12:48:47] Checking b6
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b6
+[12-06-2021 12:48:47] Checking b5
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b5
+[12-06-2021 12:48:47] Checking b4
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b4
+[12-06-2021 12:48:47] Checking b3
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b3
+[12-06-2021 12:48:47] Checking b2
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b2
+[12-06-2021 12:48:47] Checking b1
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/b1
+[12-06-2021 12:48:47] Checking af
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/af
+[12-06-2021 12:48:47] Checking ad
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ad
+[12-06-2021 12:48:47] Checking ac
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ac
+[12-06-2021 12:48:47] Checking ab
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/ab
+[12-06-2021 12:48:47] Checking aa
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/aa
+[12-06-2021 12:48:47] Checking a9
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a9
+[12-06-2021 12:48:47] Checking a8
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a8
+[12-06-2021 12:48:47] Checking a7
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a7
+[12-06-2021 12:48:47] Checking a6
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a6
+[12-06-2021 12:48:47] Checking a5
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a5
+[12-06-2021 12:48:47] Checking a4
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a4
+[12-06-2021 12:48:47] Checking a3
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a3
+[12-06-2021 12:48:47] Checking a1
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a1
+[12-06-2021 12:48:47] Checking a0
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/a0
+[12-06-2021 12:48:47] Checking 9f
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9f
+[12-06-2021 12:48:47] Checking 9e
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9e
+[12-06-2021 12:48:47] Checking 9c
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9c
+[12-06-2021 12:48:47] Checking 9b
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9b
+[12-06-2021 12:48:47] Checking 9a
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/9a
+[12-06-2021 12:48:47] Checking 99
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/99
+[12-06-2021 12:48:47] Checking 98
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/98
+[12-06-2021 12:48:47] Checking 96
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/96
+[12-06-2021 12:48:47] Checking 94
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/94
+[12-06-2021 12:48:47] Checking 93
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/93
+[12-06-2021 12:48:47] Checking 92
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/92
+[12-06-2021 12:48:47] Checking 91
+[12-06-2021 12:48:47] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/91
+[12-06-2021 12:48:47] Checking 90
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/90
+[12-06-2021 12:48:48] Checking 8f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/8f
+[12-06-2021 12:48:48] Checking 8e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/8e
+[12-06-2021 12:48:48] Checking 8d
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/8d
+[12-06-2021 12:48:48] Checking 89
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/89
+[12-06-2021 12:48:48] Checking 88
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/88
+[12-06-2021 12:48:48] Checking 86
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/86
+[12-06-2021 12:48:48] Checking 85
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/85
+[12-06-2021 12:48:48] Checking 84
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/84
+[12-06-2021 12:48:48] Checking 83
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/83
+[12-06-2021 12:48:48] Checking 81
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/81
+[12-06-2021 12:48:48] Checking 80
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/80
+[12-06-2021 12:48:48] Checking 7f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7f
+[12-06-2021 12:48:48] Checking 7e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7e
+[12-06-2021 12:48:48] Checking 7d
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7d
+[12-06-2021 12:48:48] Checking 7c
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7c
+[12-06-2021 12:48:48] Checking 7b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7b
+[12-06-2021 12:48:48] Checking 7a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/7a
+[12-06-2021 12:48:48] Checking 79
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/79
+[12-06-2021 12:48:48] Checking 78
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/78
+[12-06-2021 12:48:48] Checking 77
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/77
+[12-06-2021 12:48:48] Checking 76
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/76
+[12-06-2021 12:48:48] Checking 75
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/75
+[12-06-2021 12:48:48] Checking 74
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/74
+[12-06-2021 12:48:48] Checking 72
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/72
+[12-06-2021 12:48:48] Checking 71
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/71
+[12-06-2021 12:48:48] Checking 70
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/70
+[12-06-2021 12:48:48] Checking 6f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6f
+[12-06-2021 12:48:48] Checking 6e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6e
+[12-06-2021 12:48:48] Checking 6d
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6d
+[12-06-2021 12:48:48] Checking 6b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6b
+[12-06-2021 12:48:48] Checking 6a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/6a
+[12-06-2021 12:48:48] Checking 69
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/69
+[12-06-2021 12:48:48] Checking 68
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/68
+[12-06-2021 12:48:48] Checking 67
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/67
+[12-06-2021 12:48:48] Checking 65
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/65
+[12-06-2021 12:48:48] Checking 64
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/64
+[12-06-2021 12:48:48] Checking 63
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/63
+[12-06-2021 12:48:48] Checking 62
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/62
+[12-06-2021 12:48:48] Checking 60
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/60
+[12-06-2021 12:48:48] Checking 5f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5f
+[12-06-2021 12:48:48] Checking 5e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5e
+[12-06-2021 12:48:48] Checking 5c
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5c
+[12-06-2021 12:48:48] Checking 5b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/5b
+[12-06-2021 12:48:48] Checking 59
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/59
+[12-06-2021 12:48:48] Checking 58
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/58
+[12-06-2021 12:48:48] Checking 56
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/56
+[12-06-2021 12:48:48] Checking 55
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/55
+[12-06-2021 12:48:48] Checking 54
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/54
+[12-06-2021 12:48:48] Checking 52
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/52
+[12-06-2021 12:48:48] Checking 51
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/51
+[12-06-2021 12:48:48] Checking 50
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/50
+[12-06-2021 12:48:48] Checking 4f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4f
+[12-06-2021 12:48:48] Checking 4e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4e
+[12-06-2021 12:48:48] Checking 4d
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4d
+[12-06-2021 12:48:48] Checking 4c
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4c
+[12-06-2021 12:48:48] Checking 4a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/4a
+[12-06-2021 12:48:48] Checking 49
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/49
+[12-06-2021 12:48:48] Checking 48
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/48
+[12-06-2021 12:48:48] Checking 47
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/47
+[12-06-2021 12:48:48] Checking 46
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/46
+[12-06-2021 12:48:48] Checking 45
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/45
+[12-06-2021 12:48:48] Checking 44
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/44
+[12-06-2021 12:48:48] Checking 42
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/42
+[12-06-2021 12:48:48] Checking 41
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/41
+[12-06-2021 12:48:48] Checking 40
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/40
+[12-06-2021 12:48:48] Checking 3f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3f
+[12-06-2021 12:48:48] Checking 3e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3e
+[12-06-2021 12:48:48] Checking 3c
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3c
+[12-06-2021 12:48:48] Checking 3a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/3a
+[12-06-2021 12:48:48] Checking 39
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/39
+[12-06-2021 12:48:48] Checking 38
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/38
+[12-06-2021 12:48:48] Checking 37
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/37
+[12-06-2021 12:48:48] Checking 36
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/36
+[12-06-2021 12:48:48] Checking 35
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/35
+[12-06-2021 12:48:48] Checking 34
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/34
+[12-06-2021 12:48:48] Checking 31
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/31
+[12-06-2021 12:48:48] Checking 30
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/30
+[12-06-2021 12:48:48] Checking 2f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2f
+[12-06-2021 12:48:48] Checking 2e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2e
+[12-06-2021 12:48:48] Checking 2d
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2d
+[12-06-2021 12:48:48] Checking 2c
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2c
+[12-06-2021 12:48:48] Checking 2b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2b
+[12-06-2021 12:48:48] Checking 2a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/2a
+[12-06-2021 12:48:48] Checking 29
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/29
+[12-06-2021 12:48:48] Checking 28
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/28
+[12-06-2021 12:48:48] Checking 27
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/27
+[12-06-2021 12:48:48] Checking 26
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/26
+[12-06-2021 12:48:48] Checking 25
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/25
+[12-06-2021 12:48:48] Checking 23
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/23
+[12-06-2021 12:48:48] Checking 22
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/22
+[12-06-2021 12:48:48] Checking 1f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1f
+[12-06-2021 12:48:48] Checking 1d
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1d
+[12-06-2021 12:48:48] Checking 1b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1b
+[12-06-2021 12:48:48] Checking 1a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/1a
+[12-06-2021 12:48:48] Checking 19
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/19
+[12-06-2021 12:48:48] Checking 17
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/17
+[12-06-2021 12:48:48] Checking 16
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/16
+[12-06-2021 12:48:48] Checking 15
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/15
+[12-06-2021 12:48:48] Checking 13
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/13
+[12-06-2021 12:48:48] Checking 12
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/12
+[12-06-2021 12:48:48] Checking 10
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/10
+[12-06-2021 12:48:48] Checking 0f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/0f
+[12-06-2021 12:48:48] Checking 0e
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/0e
+[12-06-2021 12:48:48] Checking 0b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/0b
+[12-06-2021 12:48:48] Checking 09
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/09
+[12-06-2021 12:48:48] Checking 07
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/07
+[12-06-2021 12:48:48] Checking 04
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/04
+[12-06-2021 12:48:48] Checking 03
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/03
+[12-06-2021 12:48:48] Checking 01
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/01
+[12-06-2021 12:48:48] Checking 00
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/objects/00
+[12-06-2021 12:48:48] Checking edbf6a64e17da3d74ecb0c96ff88d171b9fd5b
+[12-06-2021 12:48:48] Checking d16f520501102a50f3a295c1063d4b00c3f0d8
+[12-06-2021 12:48:48] Checking adc8618cc6c1584c20ce31d7e0ede41bf5ac04
+[12-06-2021 12:48:48] Checking 5c8b20c55471cc1a3be99618c7e5dbc37b9a05
+[12-06-2021 12:48:48] Checking a5032c61f6f1931974a1693e1e63ec8c0044a3
+[12-06-2021 12:48:48] Checking 3fd5cdc54700cd5444fa5b419716a4520ac04b
+[12-06-2021 12:48:48] Checking 01e28bed4d225338b82fc229737c221199de22
+[12-06-2021 12:48:48] Checking 379fa033e658868b00bdc800f28ede758ae1ce
+[12-06-2021 12:48:48] Checking 2d1e5cc0b102e22ed2a49db4ca42d43a988e72
+[12-06-2021 12:48:48] Checking 74ec6c5d0b7326ee0743331a3b25e9f9a4bb27
+[12-06-2021 12:48:48] Checking b2a8b1ab507cd461cb12e057c2c9c369ffb0cf
+[12-06-2021 12:48:48] Checking 978cc35da18023765960f3026e294c81563836
+[12-06-2021 12:48:48] Checking 966d15aac40ac0365fa14b58c7928b7e464d0a
+[12-06-2021 12:48:48] Checking ca109ef84e85dd81cc7f6b1b0dde5327dc4a75
+[12-06-2021 12:48:48] Checking 44e04ed41c4b89be27dcc8a6ea0fae62a9e07f
+[12-06-2021 12:48:48] Checking ed2bc73636916f11dd15ff12643a785028102e
+[12-06-2021 12:48:48] Checking c5e1cab708f56fcbe1074068f9759b279ccaa2
+[12-06-2021 12:48:48] Checking 21742fddf6a60e0b73eaeb1290bcfa150e0ff5
+[12-06-2021 12:48:48] Checking 521377eb6c595eb688e361de4e05e8b0c0c1b2
+[12-06-2021 12:48:48] Checking 4613037512328bce20f5038d6bb35a596b98b3
+[12-06-2021 12:48:48] Checking 2f592c1b500ef3f2581d371f179bed227b7213
+[12-06-2021 12:48:48] Checking 3e7908c1344da972b3b083b31dceb68ae6e013
+[12-06-2021 12:48:48] Checking 98036bf72359db6bc28fed57883e3ef9fc523a
+[12-06-2021 12:48:48] Checking e54dc69ffc53ba0821530f65a3610b9ab98fe5
+[12-06-2021 12:48:48] Checking b802072af67b1eead3463896d0ffd1831ffa33
+[12-06-2021 12:48:48] Checking 86d432907f3bed1f3073b62c0d6a4575d98bd5
+[12-06-2021 12:48:48] Checking d69eb0048dafd9c8a8b68c1f03768cdf1f6a65
+[12-06-2021 12:48:48] Checking 93b1feace35b1f1286b65de1e5cf98473e953f
+[12-06-2021 12:48:48] Checking 88972a8f856188443c2e4cdb0f2baadd4a8a0d
+[12-06-2021 12:48:48] Checking 4015f7aeefcb09b8f1f803d553acfdf99de39c
+[12-06-2021 12:48:48] Checking e480538a96ae73f638c6d65b94d2d815ffd6c8
+[12-06-2021 12:48:48] Checking 19133283740b0a3734f1c48e60e13438911a01
+[12-06-2021 12:48:48] Checking 45f5de12297576cd55c7a88b5fdf22099c9e9d
+[12-06-2021 12:48:48] Checking 587d68dd01b5e58e77fa9ae275eeb8d5c81535
+[12-06-2021 12:48:48] Checking 942b2fb8e5946b863a3eaf911e52ad9dff21c4
+[12-06-2021 12:48:48] Checking 75d17eeebe374463ffcd100ef5007e8e359666
+[12-06-2021 12:48:48] Checking 41d38fbe6a4fb72cc0177e1f4c1cf6df348bba
+[12-06-2021 12:48:48] Checking 180f2660b618955d8f0df16c1437f3ff266bbb
+[12-06-2021 12:48:48] Checking 09358c645a869976a2de42729795c312e244ea
+[12-06-2021 12:48:48] Checking 5de432bb112c8334338a2600bb13b169e167c0
+[12-06-2021 12:48:48] Checking 56cbb7da7954eda6991fd5886c2c4b7e6067a7
+[12-06-2021 12:48:48] Checking 187c02b279c43dc229bd357598c8d469338857
+[12-06-2021 12:48:48] Checking 4b74d7cdd41128df333aadd5c31ec48bae019d
+[12-06-2021 12:48:48] Checking 1868864be8a586c4c3332a65d6e596b23849ac
+[12-06-2021 12:48:48] Checking 03d76fbf01e04a456af84ac219674e45de745e
+[12-06-2021 12:48:48] Checking a8db3217796a4a837b8cc11e47424fc0bdfca5
+[12-06-2021 12:48:48] Checking a023ff5305f137693bd19d4668bec16bf5a2e0
+[12-06-2021 12:48:48] Checking d057f518643e822d9881285cc9c65701e4195b
+[12-06-2021 12:48:48] Checking ca381d72ec9f9ecd750d7735a4c957a440d8d4
+[12-06-2021 12:48:48] Checking 6d1db26ff27d50cc0385c45fe49479830e651e
+[12-06-2021 12:48:48] Checking 1e7b189e762fbecbbf84de96724987294f3480
+[12-06-2021 12:48:48] Checking b3062ef9aa26a2d6dff29ac48b547665c6987c
+[12-06-2021 12:48:48] Checking 3fc5a7495d7f7d5cdba4e5162df42edaef9946
+[12-06-2021 12:48:48] Checking 32889537f248bb1d96fd757995f64cf99daf77
+[12-06-2021 12:48:48] Checking 057c58385f378582d0c0e1e834e56e23523791
+[12-06-2021 12:48:48] Checking 18bb95b2b95a65dcb746348cc231c97c4de795
+[12-06-2021 12:48:48] Checking 48041bab0fe9d65af67389da5a489dafbfcd41
+[12-06-2021 12:48:48] Checking 01b0a21161ea8c504684fa50ab754112fea869
+[12-06-2021 12:48:48] Checking 0083adb88015b5656f67bf69ea41f0f3266949
+[12-06-2021 12:48:48] Checking 8d5517c3fe25ba5e95482f36dd2ed731130a17
+[12-06-2021 12:48:48] Checking 8a8000faf2576ce9ea4853a369f38590b095ba
+[12-06-2021 12:48:48] Checking 46fbc4b7cf7b1844879c846980269f95e12d41
+[12-06-2021 12:48:48] Checking 16ea5b3e1c41d5dcfcc5fb64162e7526af5913
+[12-06-2021 12:48:48] Checking f67e82417994583b567b371d9dfd6ad81eebd3
+[12-06-2021 12:48:48] Checking d30e501fd5b76e37a7de281c9bc9660c1c8b09
+[12-06-2021 12:48:48] Checking 0119685a63f92ddcd6c47a2a6949ab0c1ea196
+[12-06-2021 12:48:48] Checking 27ec87ab8a9244866a3ba7fffd500e08e5f877
+[12-06-2021 12:48:48] Checking c3906636a13e5e36682380a965432254fcebad
+[12-06-2021 12:48:48] Checking 6babd052af5e520b7174198f0e4a561ef582f2
+[12-06-2021 12:48:48] Checking 93e6577ae6ac09518bde649c98530f4c9a0b96
+[12-06-2021 12:48:48] Checking 6700a26f67feb31d523fdb15b18d60c2766fde
+[12-06-2021 12:48:48] Checking ffdfa335690c3db23c1acaa516f700cb8508eb
+[12-06-2021 12:48:48] Checking 8e2691e839f1d7cb9a2574ff7d9a4b0d97b457
+[12-06-2021 12:48:48] Checking 7f2965781ab71a313322461e1729f9fc81511a
+[12-06-2021 12:48:48] Checking 1c2eea44be5aed2894f46a035650ab81834bc1
+[12-06-2021 12:48:48] Checking c1614699d49458019511745a3c790a4c17fdd2
+[12-06-2021 12:48:48] Checking a157d83494f4f77c18fcd49d48c68f42f500a8
+[12-06-2021 12:48:48] Checking 005af00c5aa83a1a63211127ac23c49547dc8a
+[12-06-2021 12:48:48] Checking d284e7646f0e262593387ae3a21573f7512daa
+[12-06-2021 12:48:48] Checking 5f743025da96e28cb9a6309188a4a3bfaa1161
+[12-06-2021 12:48:48] Checking 778eb585875d6d0d0f4329819c87b081e69f53
+[12-06-2021 12:48:48] Checking 1c709bcc491dbbb810d29e715eb6f8b56398a6
+[12-06-2021 12:48:48] Checking 51627dfe6884eaafdf2d9db4abbcc1e48eec08
+[12-06-2021 12:48:48] Checking ce0fb1d29082ac27dde15667c031705ef46f46
+[12-06-2021 12:48:48] Checking c4676d784cdb8b318c079291b06ab3f5432a90
+[12-06-2021 12:48:48] Checking f1a5d8b02571d564d9133222d7132c31f9e218
+[12-06-2021 12:48:48] Checking 99163ada698e399c2afb56158bf91f5bd30152
+[12-06-2021 12:48:48] Checking 53c309e70a620ca750d4324f4583231c4ad522
+[12-06-2021 12:48:48] Checking 1175ddd08a2e17bc38b910cc345ce039802b85
+[12-06-2021 12:48:48] Checking cf5b45336a69a84c79458e0095ea5b5bd5162d
+[12-06-2021 12:48:48] Checking 5713808975ba06982e19eb24e549016bea3f11
+[12-06-2021 12:48:48] Checking cc31cc9147a8088a25427430f03746c2d5110b
+[12-06-2021 12:48:48] Checking 5c89584a30c98eac589dfb4397093b207b844c
+[12-06-2021 12:48:48] Checking 766760ea2bf4d9ef26434e6b29f091c8c565d2
+[12-06-2021 12:48:48] Checking 0e7b2fbc78542a0f67989dc0e3238f46fc1b8d
+[12-06-2021 12:48:48] Checking cbabb7357ce8ee1a4597363d4e2e1442cad7da
+[12-06-2021 12:48:48] Checking 7e0afcd377b14b1a51dd4cbb58b5b78d53ce49
+[12-06-2021 12:48:48] Checking 720a81a9b38c8630ea133513b3b0ba31839d99
+[12-06-2021 12:48:48] Checking c82a52085388e5d9b78dee2581b1dc83b43c85
+[12-06-2021 12:48:48] Checking 3b00efbb7398a9f41be1eb0ec3f69b9c7264c4
+[12-06-2021 12:48:48] Checking 1634b919404d165281d71ac42d24bc3e3f88b2
+[12-06-2021 12:48:48] Checking 8348ea53f78395ef0241542a2bd87456daa39d
+[12-06-2021 12:48:48] Checking 4a9c5c6b73b5f229c4428962eea8789dff5701
+[12-06-2021 12:48:48] Checking 78896d62df612ac216109a60fbcf94d12ef03d
+[12-06-2021 12:48:48] Checking e61e5121e42efc0ae2b2e8cba1fab2d1e9aef3
+[12-06-2021 12:48:48] Checking 6e52ab9ba3d16900637e4d399dbc1ac62a32d7
+[12-06-2021 12:48:48] Checking 06846ed4330601a362cfc5c633690ac24f43e0
+[12-06-2021 12:48:48] Checking c2d6fa89ddf18148b108e2253ac46b6b637ecd
+[12-06-2021 12:48:48] Checking 783c7f62d7ac8fbfe65616e1390fb998279576
+[12-06-2021 12:48:48] Checking d45169521f607deae2c2d267ef685f67cb448a
+[12-06-2021 12:48:48] Checking 69b683b04a88dd0f53ac70147c4cb343b04f85
+[12-06-2021 12:48:48] Checking 5e4545db0bddf4c290d112ac62d52ce96ba845
+[12-06-2021 12:48:48] Checking 76508d9d005520eb360cc8d1de61b894be4c9b
+[12-06-2021 12:48:48] Checking 6f62f0f873720566a436fc9fed681104cf8b33
+[12-06-2021 12:48:48] Checking 3f5d4107625fe55476671a2d3d69008ea906ef
+[12-06-2021 12:48:48] Checking 2def9f55649740ed82bc7e02f377adcab89907
+[12-06-2021 12:48:48] Checking 0578eb4b24014e7593bee9d8bd09e45e5e06f5
+[12-06-2021 12:48:48] Checking 64e8ca296889bb7d5ddabc266ad6dc04c936b2
+[12-06-2021 12:48:48] Checking 49e5f87af7fd4fc3c05bf3ea53f7239ac9f757
+[12-06-2021 12:48:48] Checking 487df6de7c71b88f740407c5de16827da9b3b9
+[12-06-2021 12:48:48] Checking 00f6dbdb01fcdf8214238ef95697ffeb50a2ca
+[12-06-2021 12:48:48] Checking 66ebb69c41919194682995d182c24edd4a715e
+[12-06-2021 12:48:48] Checking f52a8d6bff6971d96d8b7cd6fd1da70810a1f8
+[12-06-2021 12:48:48] Checking cc2813fdc8607a2da3c3baf92814866bae8d24
+[12-06-2021 12:48:48] Checking 39c651446608234f202c72f1c43a4698c887de
+[12-06-2021 12:48:48] Checking 54b048248eb39e6920a617718a021b4324e8b5
+[12-06-2021 12:48:48] Checking a07e535257beb5592bd61eb809d933d30ff61a
+[12-06-2021 12:48:48] Checking cf879c402863978bafe6903f817821407bb4b0
+[12-06-2021 12:48:48] Checking 9bf4d09a1ee78e6bf2c8be90a81acaf443755a
+[12-06-2021 12:48:48] Checking 7cefb1047f602619a2acfc471cbae7d92acb4b
+[12-06-2021 12:48:48] Checking 2e1a3204c7ddaceae7a6a465d7893eca098336
+[12-06-2021 12:48:48] Checking 22dcfab5c8a5ff95c3adf8d488aa9e24f610bf
+[12-06-2021 12:48:48] Checking 8779d2a2106b6a96b0c74c56880e3d9fbd870c
+[12-06-2021 12:48:48] Checking ee641afb76a3253bc8e9691baa21693dd94f15
+[12-06-2021 12:48:48] Checking 60280243b67419fa0e3a1fb510078032f464a0
+[12-06-2021 12:48:48] Checking 2c894b519048317fb51fbac3a12d3ee799e9c8
+[12-06-2021 12:48:48] Checking 0d8fa2b6975ed83df7a205c69cc0deb0fc296f
+[12-06-2021 12:48:48] Checking db265820d65f006a3c28d1c95a44952696a1b7
+[12-06-2021 12:48:48] Checking 2dd0a7c1366161aa8e80b498d2885adbf139fa
+[12-06-2021 12:48:48] Checking e67e03e9f2e128b3e7b08491cff67c726f3f3e
+[12-06-2021 12:48:48] Checking bf99d5475ca52e702fc98ba7f4c42b72e8643b
+[12-06-2021 12:48:48] Checking 9b7deb95239e3362cfce150031ab7ece2fa213
+[12-06-2021 12:48:48] Checking 5328857df157ec5db1a4b5b29e832120a44d8c
+[12-06-2021 12:48:48] Checking b8f1bb5a2f686f535ce6fed7d8715b69cfbd34
+[12-06-2021 12:48:48] Checking e69123b418f1ed5800386ae1b9c02d49999971
+[12-06-2021 12:48:48] Checking 92355e83790eca6208c2bcd659d75e188749ec
+[12-06-2021 12:48:48] Checking 8dcb43db991194457610596d94dfe8818834ce
+[12-06-2021 12:48:48] Checking e7d3f22b46ed144adc356aa038faf7ba008508
+[12-06-2021 12:48:48] Checking 7477c461a789bbfe61b3a9828f3554e2b260e1
+[12-06-2021 12:48:48] Checking 49beb7619eae01d4832d5727d013c43aa08571
+[12-06-2021 12:48:48] Checking 9d50debfb7a45c7b19ece5950495f10795c101
+[12-06-2021 12:48:48] Checking 03af8bedf9f673e46f0d787ac1d3a5bc1bf7a8
+[12-06-2021 12:48:48] Checking f533e0428966aee53cc1ac5f08a04f3f9aad68
+[12-06-2021 12:48:48] Checking 5c9fc382a57a22e69d4b2790f03d3ccdba9502
+[12-06-2021 12:48:48] Checking a59afa84ffdb74b55024c5c928a8abc09b71b6
+[12-06-2021 12:48:48] Checking 7eccc0e30f233501180b87d055833a085896ad
+[12-06-2021 12:48:48] Checking aa22fcc0f6ceb2639a3ce5c71bec025500bfe7
+[12-06-2021 12:48:48] Checking a3460a8e669c5e2c3d94528cba49c5eeb760d4
+[12-06-2021 12:48:48] Checking 956737aa52b800275244f72ea111abf3a5a1c3
+[12-06-2021 12:48:48] Checking 14d0a6a87b274905e8748a4e122e7163c6ecd8
+[12-06-2021 12:48:48] Checking d90bc9f9ee6fa2483e77b2d8b18d347abf5e44
+[12-06-2021 12:48:48] Checking cd5f16f2a42277a01d94bf5530d314e2fa9014
+[12-06-2021 12:48:48] Checking f0ab8f99257462d7d661d3fe6073e16a05bdb5
+[12-06-2021 12:48:48] Checking 08169e092faea23b2c8c2e5c8b753ec316d21e
+[12-06-2021 12:48:48] Checking a7d667b863a1c915d713462527f2162463b83e
+[12-06-2021 12:48:48] Checking a247785128ad653fe774e2565a631b34c0cb9f
+[12-06-2021 12:48:48] Checking 8f24effab33903ec02fd5aaa1723749cabe399
+[12-06-2021 12:48:48] Checking 540cc69ef8e326292d503e0f795d731cee5b5b
+[12-06-2021 12:48:48] Checking acc76451a961ade52b2919f950bbb65275d906
+[12-06-2021 12:48:48] Checking ee7af8129eea39903cf8788c058dd5155fce9e
+[12-06-2021 12:48:48] Checking b978381d0c2a50cc0ea1e43a104bafedf6688d
+[12-06-2021 12:48:48] Checking a13f35c9ee0a92c1bb2402bf5dedb5a5861198
+[12-06-2021 12:48:48] Checking 7efec9041938159472ee03b16a517ac5bbfcb4
+[12-06-2021 12:48:48] Checking 026d940e8866907a4f9315356102c0f54359ac
+[12-06-2021 12:48:48] Checking 2cfc48569662716a51dad27128283c851f5428
+[12-06-2021 12:48:48] Checking 925c3bbfdd097bcfd321d1da437ddd8ccd9be9
+[12-06-2021 12:48:48] Checking 1a76ff940a07a92784b5b5956697650da7501c
+[12-06-2021 12:48:48] Checking 5f05b6127ba50515a6583f0c80db955340ef20
+[12-06-2021 12:48:48] Checking 46c00af691d0b947c3f7ebe89ba14f950d2a2a
+[12-06-2021 12:48:48] Checking 2194be860d19afc33423d8275c7f788a28336d
+[12-06-2021 12:48:48] Checking 04959474bc6c150ce8cb62ee8010b2e3dccf30
+[12-06-2021 12:48:48] Checking 934dbf2f93a43b6fa650ca9a942c42ccc18894
+[12-06-2021 12:48:48] Checking 7b3bd0abe46d3f113ceb3223ef285ba242d27c
+[12-06-2021 12:48:48] Checking 7052c286429b51d9b71b2c61a57a7ae92cae09
+[12-06-2021 12:48:48] Checking 4474e7313b0c4aab36a3e9f2e8491b534c4d8d
+[12-06-2021 12:48:48] Checking 3284619ea9a3e6587acb17dab00b41e8bba2d5
+[12-06-2021 12:48:48] Checking 31614a66ff4403f3d64f42eab8bdc26d590329
+[12-06-2021 12:48:48] Checking cd8e177ade3866d75f8d96492a04e41214cf51
+[12-06-2021 12:48:48] Checking 465bfc3ad966edd09307958b450b707ff4ac0f
+[12-06-2021 12:48:48] Checking e4d12a687fbdae6bec6638bdf58fb5522065fd
+[12-06-2021 12:48:48] Checking 410ae94573cf8ff0983358b51e22d893789907
+[12-06-2021 12:48:48] Checking 2b68860a28c93dfe967c090b4a59e570bf94dc
+[12-06-2021 12:48:48] Checking 62521c463dcde49a1e75f19ca80b5f0025af4f
+[12-06-2021 12:48:48] Checking 0244764b5e7cbdc7f7a393b23e84d97eba2917
+[12-06-2021 12:48:48] Checking 38faba21b925801d04e91f935036042ddba8fd
+[12-06-2021 12:48:48] Checking db4e0fffb89a14e1c1c958a0d103b16943654c
+[12-06-2021 12:48:48] Checking ae5242da76db032a654638ec5bf2e7a9012972
+[12-06-2021 12:48:48] Checking 469de8268c06424c8759ba96c915699f800c29
+[12-06-2021 12:48:48] Checking 0b1fbc83b131b2ad3d1c773478711a5009e13d
+[12-06-2021 12:48:48] Checking 19097cc6b7d0c4fd1f7d55e8c7f8aec1a34342
+[12-06-2021 12:48:48] Checking 9d70ff7f42f0fbef9ad77a14c706c8ebab28bc
+[12-06-2021 12:48:48] Checking 9001498e3ccd3e83fdadeee45f2ff8d54126f0
+[12-06-2021 12:48:48] Checking 7327385f2bf214987ce5cc7437a0f3c58f8189
+[12-06-2021 12:48:48] Checking e1889bed427f99a7ef2f87f911c36701fff16a
+[12-06-2021 12:48:48] Checking 74b8b937f04bcd0a95cf8afc51ff229be7be27
+[12-06-2021 12:48:48] Checking 618ff746830a8b853caed6f52475b06cf644df
+[12-06-2021 12:48:48] Checking d3130bf57ecf47e262be296ba7c02b4099b3f9
+[12-06-2021 12:48:48] Checking ccc5a07b9e09415be13fd1e06db8e62c9709ac
+[12-06-2021 12:48:48] Checking a5599b382ae013d159e3439119bced176c74cb
+[12-06-2021 12:48:48] Checking 6b550fab0a608cc2b4c9b48c5380266a33b418
+[12-06-2021 12:48:48] Checking 5117cf8715cdc57340c5657906f57ca42dbef7
+[12-06-2021 12:48:48] Checking fef843fa7796e36577226190cb018142784643
+[12-06-2021 12:48:48] Checking e6ed835f5d9f2ea78137e422ea0ae8c3dc5a63
+[12-06-2021 12:48:48] Checking e65dc6faaa39a67cb6e46dfe428376344668f9
+[12-06-2021 12:48:48] Checking 836d33c056a0427556d0a2118ebafe1403c033
+[12-06-2021 12:48:48] Checking e8d52926b3474fc4c46ad3fd9a09f314bae260
+[12-06-2021 12:48:48] Checking e5c62589436d49ba5e00baabe99af544f67158
+[12-06-2021 12:48:48] Checking bc9def1ef42a7246953e9e5cccf05250e19854
+[12-06-2021 12:48:48] Checking a7d2ecfbcc1336e4a126cc72132823788ae801
+[12-06-2021 12:48:48] Checking 6f91d73b4acb4d6ce3bf3590c413b2b524e6d7
+[12-06-2021 12:48:48] Checking a1cc6d24d518ce73b54673d149ddc4e694b582
+[12-06-2021 12:48:48] Checking be6570386008dd231638e493fa56180f805b46
+[12-06-2021 12:48:48] Checking c188be2b50cd47b60e9ad02f538a98a3e6b410
+[12-06-2021 12:48:48] Checking 201fd142246a15cc0555f56be50eb14d2c17aa
+[12-06-2021 12:48:48] Checking 8d3cb15b70a24cd0b42baa63924d2a6f4b55e8
+[12-06-2021 12:48:48] Checking fdefce1d0d3476e71a307dbeffd4754d1b1f41
+[12-06-2021 12:48:48] Checking ca71d3c87a3cfe954259769441d29634998223
+[12-06-2021 12:48:48] Checking 54b2defbda485d4de6d6276b10d8a95b68a064
+[12-06-2021 12:48:48] Checking b40929466f263da4da4cd7e89f83d351d4eb92
+[12-06-2021 12:48:48] Checking 6d666442f5203a6b6447b09d0e2513e26647e2
+[12-06-2021 12:48:48] Checking 374bd92519b756e6751c7e1a1f49e962e40cb4
+[12-06-2021 12:48:48] Checking 4b1d47dae522fc6a57aa6f821ad48bcc058474
+[12-06-2021 12:48:48] Checking 01339091f47f9380f23253ddbc445b1fde8729
+[12-06-2021 12:48:48] Checking 34cd44c95837d16e17de5b9fc76eacca839667
+[12-06-2021 12:48:48] Checking 7a59d5d7fb16f667da4b2f1e69dba4712d90d2
+[12-06-2021 12:48:48] Checking dff2f38f2115909f4b51925d4b38fd9476e314
+[12-06-2021 12:48:48] Checking 9da110667e722ca2a8823da1ff233e04b8f5c7
+[12-06-2021 12:48:48] Checking 0ab5e464f47252af8467a0712a9df8f7b499dd
+[12-06-2021 12:48:48] Checking d594057ae1b4d3bebb9ccf53b8620a54c56776
+[12-06-2021 12:48:48] Checking 665f4186970e98bdcd852269aa7cc7aa9764aa
+[12-06-2021 12:48:48] Checking 3a465ab017b79281b9d4b0815499730cca59d2
+[12-06-2021 12:48:48] Checking fb77c2760166c1aa2a0f00222a4da38e028b9f
+[12-06-2021 12:48:48] Checking 97f360d44b4478cd0bacfb3a4fc6fdefe6df86
+[12-06-2021 12:48:48] Checking 7db2bcfd9eac4e4efb057e1fdd31285a0a73b8
+[12-06-2021 12:48:48] Checking 41ef123fd8d36565009be90c5a3b7eb56fda05
+[12-06-2021 12:48:48] Checking cc7f63b09664e6cb747312a2d38d6265932ffd
+[12-06-2021 12:48:48] Checking 1812166c7aee3b1005e0023616cabc69f46eca
+[12-06-2021 12:48:48] Checking cabe35ce1172ff895d3f08db20aecc33ac1594
+[12-06-2021 12:48:48] Checking ad8133ab6f6d82d7e1dd8dff92d70b2c301c13
+[12-06-2021 12:48:48] Checking a02baea936cb5329ee572c107b853d45d6e0e2
+[12-06-2021 12:48:48] Checking 65cb178728eccffaadb121b2bca38c6960b410
+[12-06-2021 12:48:48] Checking 889e1cccf5da547426ea84259692ef0bfcc128
+[12-06-2021 12:48:48] Checking f12e10f8f3a57732836cc6e41b7410512ae031
+[12-06-2021 12:48:48] Checking fde4a1cdda33b0dd69194d10d374776b378329
+[12-06-2021 12:48:48] Checking e35e32fb74f29a564a2b8f68b26fed76a028e8
+[12-06-2021 12:48:48] Checking aa066e907b1cb84b77c8b89133fa5ae187f885
+[12-06-2021 12:48:48] Checking 0d45c5aecc2065803c9134d6f2d781e4e40e01
+[12-06-2021 12:48:48] Checking 051e59311b50ad56a397c9a13be0a2f4889d91
+[12-06-2021 12:48:48] Checking 89481dcf6db399cb6befe6cdfb473c98b617b4
+[12-06-2021 12:48:48] Checking cbeb8c1fd9770cf0e956c79abea61b97268d7e
+[12-06-2021 12:48:48] Checking a730a0f309302dcb67343e5a65b89f6c5bc9cb
+[12-06-2021 12:48:48] Checking a06dba85ecee55ccbc4da9f53f42221b8d6b24
+[12-06-2021 12:48:48] Checking 0a5bb418849a3ec23554885c32d84387dad13d
+[12-06-2021 12:48:48] Checking 6ea95be547cee19ea27cc643c1b455f64b066d
+[12-06-2021 12:48:48] Checking 6756f080e76e667d887f8a34c9ba5041bdeef0
+[12-06-2021 12:48:48] Checking 507f8908f1cabfe89505f37138f00c8e56fea8
+[12-06-2021 12:48:48] Checking 6d645e331fd644c0f3af8954892466789f99b2
+[12-06-2021 12:48:48] Checking 4ac6152cd162ac5d08db93934ca359966d989a
+[12-06-2021 12:48:48] Checking bcd697f21b8803268f868101fc37066861a432
+[12-06-2021 12:48:48] Checking 99c2d25fc4f43d8ececcad9c8df9eff4b0e4cf
+[12-06-2021 12:48:48] Checking 5ee1a9a1bf42b0c1c7816bfeda0af5acac26f5
+[12-06-2021 12:48:48] Checking c6ae76233cdcd066ea81c0df56a22dcf7d6062
+[12-06-2021 12:48:48] Checking 1d7d0c67641776cc3710bcb559c8f62defc004
+[12-06-2021 12:48:48] Checking 36b74b845fce913112938b1627aa81a06438f3
+[12-06-2021 12:48:48] Checking 1192f66c56f96e26adf5c246f308de09d935fb
+[12-06-2021 12:48:48] Checking 0df6c215f6662b87f34f01cae62e54a2616472
+[12-06-2021 12:48:48] Checking fff10c53014aa075b088ddcc95b7aae605c8ba
+[12-06-2021 12:48:48] Checking dc4032246e77170712e32da90e8f6c42b53e22
+[12-06-2021 12:48:48] Checking 31bd1ebc02455de8a1a3d451cf9a10f1401f0f
+[12-06-2021 12:48:48] Checking 70ad3d5b43106ea7ccf39381319e901ff13035
+[12-06-2021 12:48:48] Checking e30a28f0d542c58e1a188a765e6437b721f07f
+[12-06-2021 12:48:48] Checking 9ae2d273bafbfa995fd19f49b1acebd8dff5dc
+[12-06-2021 12:48:48] Checking 108dd1577f4c08aea2e1c7463366ec28bf65fe
+[12-06-2021 12:48:48] Checking 0d08e1cf7d1343c2ab4c3e1c13d130b2ee09c8
+[12-06-2021 12:48:48] Checking ce5565ccf80775f23770f4f0bf612efc05d998
+[12-06-2021 12:48:48] Checking 06c96126074ca6695c42f596a884a36214ea7a
+[12-06-2021 12:48:48] Checking 86b9cc939b6271d45ac9bc8de4268217ab4036
+[12-06-2021 12:48:48] Checking 3023b64751bb20610c9b7e34240623bd1ee545
+[12-06-2021 12:48:48] Checking 740e60e57ce79c03043c23b3959908747741a6
+[12-06-2021 12:48:48] Checking 50bfd07075ac43c19dc6cff1fdaf92a0a42995
+[12-06-2021 12:48:48] Checking 04d5afe9fd2653f347f6f6ed71daf406959ed3
+[12-06-2021 12:48:48] Checking 943fff3a954af1459da3ce523365e2e13628de
+[12-06-2021 12:48:48] Checking 4fc01128eda62ace12d8f75ed2a8b415c3f355
+[12-06-2021 12:48:48] Checking 46b4b6fc77ba9e38ce2ffbb383fc3341b71d28
+[12-06-2021 12:48:48] Checking 064f432fa9907d2f10ee58939f7c50eea3e728
+[12-06-2021 12:48:48] Checking ceede8a472faee09c33b1009ec19eb6d950886
+[12-06-2021 12:48:48] Checking 3ffc0e6abd2d05464ed3ac5dc8d218a9b7875f
+[12-06-2021 12:48:48] Checking 0a7028b4d9bd88d01d40451297388ef627acb0
+[12-06-2021 12:48:48] Checking cfcbf941fca402bca84016b09155d86afec0a6
+[12-06-2021 12:48:48] Checking e18032b7b4fca114923ac05fef6831595fedbd
+[12-06-2021 12:48:48] Checking d3f24eab35171914ba24f1b3213ce3fda5f4a2
+[12-06-2021 12:48:48] Checking c68ef959c384e9c5b62a9bd901acd27fa20923
+[12-06-2021 12:48:48] Checking af566738ab18346d38178e67741d27bb1a9b7c
+[12-06-2021 12:48:48] Checking aa0ca6f580614536e5819459361e61dd756459
+[12-06-2021 12:48:48] Checking b316ca75a88b80842f3425d1ebf3f4e178fd1e
+[12-06-2021 12:48:48] Checking 3329b8839a01a386720f4ff389da914009159b
+[12-06-2021 12:48:48] Checking b12cda589246f326a538e6712cdafcaded48cc
+[12-06-2021 12:48:48] Checking 4d43272d98003475ed90fc73119b7438e950dc
+[12-06-2021 12:48:48] Checking 565df77b90eca3ee07847e115549a65465f885
+[12-06-2021 12:48:48] Checking a7743b0ba1133c176201cecf97a751707e39b4
+[12-06-2021 12:48:48] Checking 2547e457c31cab75bf4800aec145a12216d090
+[12-06-2021 12:48:48] Checking f6b74334c68ce9eb06287f81c0f031ada27b30
+[12-06-2021 12:48:48] Checking 3c580c2b01160ad8ed973664efbe1afcfff8ba
+[12-06-2021 12:48:48] Checking aca3abe2f30cc1be4334d4c641d375369060fb
+[12-06-2021 12:48:48] Checking 5761b5170923dd0d5e04609bb1d574dc0bda96
+[12-06-2021 12:48:48] Checking d09e4b4e565c61fbc8adceac0fa84a84c9f5f0
+[12-06-2021 12:48:48] Checking 6ae376e375e64955d7fa05073799544d155a9d
+[12-06-2021 12:48:48] Checking a6b0a2508fb9768308bcdbd136dc7ea5204872
+[12-06-2021 12:48:48] Checking 85acde700a7dfbfab34ee9d78912b094774d5c
+[12-06-2021 12:48:48] Checking 7c206710ad1041c9439e8630ed7d66f194fd31
+[12-06-2021 12:48:48] Checking 882b874655b6c5a27582cbdb9ba7c98bff3d1b
+[12-06-2021 12:48:48] Checking 6e4078ba159ab69d9a93bb6e1d7b5927449c6f
+[12-06-2021 12:48:48] Checking 2f084cea700948d9977858c4bb0852c471ec8a
+[12-06-2021 12:48:48] Checking 4827e31ad83889b6b51fd70a102c09284bd4ac
+[12-06-2021 12:48:48] Checking ee052942dc54b39ca18b7da99fe383dbe7c07d
+[12-06-2021 12:48:48] Checking 5b3944c2ee52b7f096138649b069b2ca4aba14
+[12-06-2021 12:48:48] Checking a653b297a62390621a7a8c76aab64ea7641806
+[12-06-2021 12:48:48] Checking 77947e765fadc21b1819374bc39262b51a9416
+[12-06-2021 12:48:48] Checking 2886101dbedcda94a9a4db01842768696b252b
+[12-06-2021 12:48:48] Checking 4ed0258e0781adbd4f8ca2c0f73317ce676e7b
+[12-06-2021 12:48:48] Checking 285939bdbe0804ac2ba4a840c417af8c5f1cf6
+[12-06-2021 12:48:48] Checking 877368382aed8d8d01b92914733b44bcef9114
+[12-06-2021 12:48:48] Checking 6351eb492d42403cd91c8c261d1a30e2b67c29
+[12-06-2021 12:48:48] Checking 13e4e7dec6e4e4df710ee8b3e0f089f4c9c640
+[12-06-2021 12:48:48] Checking 42de55d9d8db3f205da4add9bddfe5c03ce8c5
+[12-06-2021 12:48:48] Checking 3398e391ee4b22d78e2422716cb0eb000e861a
+[12-06-2021 12:48:48] Checking a5af5808288f1a89570eae18d0a881e3e4cb61
+[12-06-2021 12:48:48] Checking 7e9061a8bb3a1ca0c914b652f40b5d2a7f9b1f
+[12-06-2021 12:48:48] Checking 403881ab63060c8423cc6f0facbe426d0add8e
+[12-06-2021 12:48:48] Checking 32b8ba1275c4ac0784aad38c590384a35b1cc0
+[12-06-2021 12:48:48] Checking 2f0c3a79bdaeabc590d9ba078c9e69dfd90f18
+[12-06-2021 12:48:48] Checking 95093742ecc42d91a37ebc0f45954b9127b411
+[12-06-2021 12:48:48] Checking 32c5c4aaa626a24e74dcd7ab4c5b08d7d869e8
+[12-06-2021 12:48:48] Checking 0566bdfddac1cf9ca72e33967a4ab126aa39e5
+[12-06-2021 12:48:48] Checking b7080a94d1ee8a13c9bb71b4ceb859b388691d
+[12-06-2021 12:48:48] Checking 9e21b54b2f2289c77e7fdf15919bec478b1d67
+[12-06-2021 12:48:48] Checking 4c66ffb16199a9cd3c4863dde12ab7e0cf72d1
+[12-06-2021 12:48:48] Checking 72fb2d328ebc598af6ba291d25df6e2a5c087d
+[12-06-2021 12:48:48] Checking 56f0f4ebc94e585d9c8d38d0693097f4301da1
+[12-06-2021 12:48:48] Checking 38a73364a5d8bc7333bf6fb995f4508afa302f
+[12-06-2021 12:48:48] Checking 4639eef55bfbeedb183170b0610c099e2679e1
+[12-06-2021 12:48:48] Checking 87fc5de4fa6e07696e54fa0f0bfa87f41ae038
+[12-06-2021 12:48:48] Checking 4ee24741d514397da932dee3fc67b9ac02cec7
+[12-06-2021 12:48:48] Checking e11278fdbf3af78e444ff42152db17f0f3f61e
+[12-06-2021 12:48:48] Checking e060f351b0f11d8792d04a077e8a86e1e3dd2d
+[12-06-2021 12:48:48] Checking eabcd6e4feb34229f27c22fe52cec4a0a96534
+[12-06-2021 12:48:48] Checking 9dcfab15e0b683f3f74efd27d75e3a1f59bca0
+[12-06-2021 12:48:48] Checking 9c2283ae1708728651fe275f2cb5aaae510d24
+[12-06-2021 12:48:48] Checking 6f47b9c396c35c93771ae56f9f30d8944cf352
+[12-06-2021 12:48:48] Checking 48c4ddac0a1273d169fee4613e020093094794
+[12-06-2021 12:48:48] Checking ae04bc3c2bd62a9da37109ae4e8298fb66a4d7
+[12-06-2021 12:48:48] Checking fe1c2bc458747d37bee23ac6ac82e017d3fea4
+[12-06-2021 12:48:48] Checking 6fdfdd6f5dd7ec20d04b3a228f00b40ad5f97e
+[12-06-2021 12:48:48] Checking afa6d3c3c9ddf55a160cf11e22f4902ce43c78
+[12-06-2021 12:48:48] Checking 16ae4f82f81974d5968acfdae090cdf6e93abc
+[12-06-2021 12:48:48] Checking c9fc243ef94d100d0b2e48cf2e2984dadb5573
+[12-06-2021 12:48:48] Checking b2456d6e6cf95c27838f83bdd71b644e7746bf
+[12-06-2021 12:48:48] Checking 36dd84905edfb8b2e6333616f963291babd4ef
+[12-06-2021 12:48:48] Checking a2cef8698e2c1d361642fc36a64662abe737e4
+[12-06-2021 12:48:48] Checking 2e211db8c1182c3242f645ced0a6ea3be57aa9
+[12-06-2021 12:48:48] Checking tags
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/tags
+[12-06-2021 12:48:48] Checking remotes
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/remotes
+[12-06-2021 12:48:48] Checking heads
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/heads
+[12-06-2021 12:48:48] Checking master
+[12-06-2021 12:48:48] Checking origin
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/.git/refs/remotes/origin
+[12-06-2021 12:48:48] Checking master
+[12-06-2021 12:48:48] Checking obj_wall
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall
+[12-06-2021 12:48:48] Checking obj_spawner
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner
+[12-06-2021 12:48:48] Checking obj_snekBody
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody
+[12-06-2021 12:48:48] Checking obj_snek
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek
+[12-06-2021 12:48:48] Checking obj_die
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_die
+[12-06-2021 12:48:48] Checking obj_dadCoin
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin
+[12-06-2021 12:48:48] Checking obj_controller
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller
+[12-06-2021 12:48:48] Checking obj_coinSnake
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake
+[12-06-2021 12:48:48] Checking obj_coinShark
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark
+[12-06-2021 12:48:48] Checking obj_coinLion
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion
+[12-06-2021 12:48:48] Checking obj_coinHorse
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse
+[12-06-2021 12:48:48] Checking obj_coinDrag
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag
+[12-06-2021 12:48:48] Checking obj_coinDog
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog
+[12-06-2021 12:48:48] Checking obj_coinChick
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick
+[12-06-2021 12:48:48] Checking obj_coinCat
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat
+[12-06-2021 12:48:48] Checking obj_coinCat.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat/obj_coinCat.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat/obj_coinCat.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinCat/obj_coinCat.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinCat
+[12-06-2021 12:48:48] Checking obj_coinChick.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick/obj_coinChick.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick/obj_coinChick.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinChick/obj_coinChick.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinChick
+[12-06-2021 12:48:48] Checking obj_coinDog.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog/obj_coinDog.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog/obj_coinDog.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDog/obj_coinDog.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinDog
+[12-06-2021 12:48:48] Checking obj_coinDrag.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag/obj_coinDrag.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag/obj_coinDrag.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinDrag/obj_coinDrag.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinDrag
+[12-06-2021 12:48:48] Checking obj_coinHorse.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse/obj_coinHorse.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse/obj_coinHorse.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinHorse/obj_coinHorse.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinHorse
+[12-06-2021 12:48:48] Checking obj_coinLion.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion/obj_coinLion.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion/obj_coinLion.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinLion/obj_coinLion.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinLion
+[12-06-2021 12:48:48] Checking obj_coinShark.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark/obj_coinShark.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark/obj_coinShark.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinShark/obj_coinShark.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinShark
+[12-06-2021 12:48:48] Checking obj_coinSnake.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake/obj_coinSnake.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake/obj_coinSnake.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_coinSnake/obj_coinSnake.yy"
+[12-06-2021 12:48:48] Found Object: obj_coinSnake
+[12-06-2021 12:48:48] Checking Step_0.gml
+[12-06-2021 12:48:48] Checking obj_controller.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller/obj_controller.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller/obj_controller.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_controller/obj_controller.yy"
+[12-06-2021 12:48:48] Found Object: obj_controller
+[12-06-2021 12:48:48] Checking Create_0.gml
+[12-06-2021 12:48:48] Checking Alarm_0.gml
+[12-06-2021 12:48:48] Checking obj_dadCoin.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin/obj_dadCoin.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin/obj_dadCoin.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_dadCoin/obj_dadCoin.yy"
+[12-06-2021 12:48:48] Found Object: obj_dadCoin
+[12-06-2021 12:48:48] Checking Step_0.gml
+[12-06-2021 12:48:48] Checking obj_die.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_die/obj_die.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_die/obj_die.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_die/obj_die.yy"
+[12-06-2021 12:48:48] Found Object: obj_die
+[12-06-2021 12:48:48] Checking obj_snek.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek/obj_snek.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek/obj_snek.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_snek/obj_snek.yy"
+[12-06-2021 12:48:48] Found Object: obj_snek
+[12-06-2021 12:48:48] Checking Destroy_0.gml
+[12-06-2021 12:48:48] Checking Create_0.gml
+[12-06-2021 12:48:48] Checking Collision_obj_wall.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinSnake.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinShark.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinLion.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinHorse.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinDrag.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinDog.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinChick.gml
+[12-06-2021 12:48:48] Checking Collision_obj_coinCat.gml
+[12-06-2021 12:48:48] Checking Alarm_0.gml
+[12-06-2021 12:48:48] Checking obj_snekBody.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody/obj_snekBody.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody/obj_snekBody.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_snekBody/obj_snekBody.yy"
+[12-06-2021 12:48:48] Found Object: obj_snekBody
+[12-06-2021 12:48:48] Checking Destroy_0.gml
+[12-06-2021 12:48:48] Checking Create_0.gml
+[12-06-2021 12:48:48] Checking Alarm_0.gml
+[12-06-2021 12:48:48] Checking obj_spawner.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner/obj_spawner.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner/obj_spawner.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_spawner/obj_spawner.yy"
+[12-06-2021 12:48:48] Found Object: obj_spawner
+[12-06-2021 12:48:48] Checking Create_0.gml
+[12-06-2021 12:48:48] Checking Alarm_8.gml
+[12-06-2021 12:48:48] Checking obj_wall.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall/obj_wall.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall/obj_wall.yy
+[12-06-2021 12:48:48] Par: "folders/Objects" at dir: "C:/Users/evanm/Desktop/Blit Jam/objects/obj_wall/obj_wall.yy"
+[12-06-2021 12:48:48] Found Object: obj_wall
+[12-06-2021 12:48:48] Checking windows
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/options/windows
+[12-06-2021 12:48:48] Checking main
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/options/main
+[12-06-2021 12:48:48] Checking mac
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/options/mac
+[12-06-2021 12:48:48] Checking linux
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/options/linux
+[12-06-2021 12:48:48] Checking options_linux.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/options/linux/options_linux.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/options/linux/options_linux.yy
+[12-06-2021 12:48:48] Checking options_mac.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/options/mac/options_mac.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/options/mac/options_mac.yy
+[12-06-2021 12:48:48] Checking options_main.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/options/main/options_main.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/options/main/options_main.yy
+[12-06-2021 12:48:48] Checking options_windows.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/options/windows/options_windows.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/options/windows/options_windows.yy
+[12-06-2021 12:48:48] Checking rm_test
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test
+[12-06-2021 12:48:48] Checking rm_death
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death
+[12-06-2021 12:48:48] Checking rm_death.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death/rm_death.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death/rm_death.yy
+[12-06-2021 12:48:48] Par: "folders/Rooms" at dir: "C:/Users/evanm/Desktop/Blit Jam/rooms/rm_death/rm_death.yy"
+[12-06-2021 12:48:48] Found Room: rm_death
+[12-06-2021 12:48:48] Checking rm_test.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test/rm_test.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test/rm_test.yy
+[12-06-2021 12:48:48] Par: "folders/Rooms" at dir: "C:/Users/evanm/Desktop/Blit Jam/rooms/rm_test/rm_test.yy"
+[12-06-2021 12:48:48] Found Room: rm_test
+[12-06-2021 12:48:48] Checking scr_spawn
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn
+[12-06-2021 12:48:48] Checking scr_move
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move
+[12-06-2021 12:48:48] Checking scr_death
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death
+[12-06-2021 12:48:48] Checking scr_death.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death/scr_death.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death/scr_death.yy
+[12-06-2021 12:48:48] Par: "folders/Scripts" at dir: "C:/Users/evanm/Desktop/Blit Jam/scripts/scr_death/scr_death.yy"
+[12-06-2021 12:48:48] Found Script: scr_death
+[12-06-2021 12:48:48] Checking scr_death.gml
+[12-06-2021 12:48:48] Checking scr_move.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move/scr_move.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move/scr_move.yy
+[12-06-2021 12:48:48] Par: "folders/Scripts" at dir: "C:/Users/evanm/Desktop/Blit Jam/scripts/scr_move/scr_move.yy"
+[12-06-2021 12:48:48] Found Script: scr_move
+[12-06-2021 12:48:48] Checking scr_move.gml
+[12-06-2021 12:48:48] Checking scr_spawn.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn/scr_spawn.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn/scr_spawn.yy
+[12-06-2021 12:48:48] Par: "folders/Scripts" at dir: "C:/Users/evanm/Desktop/Blit Jam/scripts/scr_spawn/scr_spawn.yy"
+[12-06-2021 12:48:48] Found Script: scr_spawn
+[12-06-2021 12:48:48] Checking scr_spawn.gml
+[12-06-2021 12:48:48] Checking spr_wall
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall
+[12-06-2021 12:48:48] Checking spr_headStart
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart
+[12-06-2021 12:48:48] Checking spr_headSnake
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake
+[12-06-2021 12:48:48] Checking spr_headShark
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark
+[12-06-2021 12:48:48] Checking spr_headLion
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion
+[12-06-2021 12:48:48] Checking spr_headHorse
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse
+[12-06-2021 12:48:48] Checking spr_headDrag
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag
+[12-06-2021 12:48:48] Checking spr_headDog
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog
+[12-06-2021 12:48:48] Checking spr_headChick
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick
+[12-06-2021 12:48:48] Checking spr_headCat
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat
+[12-06-2021 12:48:48] Checking spr_coinSnake
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake
+[12-06-2021 12:48:48] Checking spr_coinShark
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark
+[12-06-2021 12:48:48] Checking spr_coinLion
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion
+[12-06-2021 12:48:48] Checking spr_coinHorse
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse
+[12-06-2021 12:48:48] Checking spr_coinDrag
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag
+[12-06-2021 12:48:48] Checking spr_coinDog
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog
+[12-06-2021 12:48:48] Checking spr_coinChick
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick
+[12-06-2021 12:48:48] Checking spr_coinCat
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat
+[12-06-2021 12:48:48] Checking spr_bodySnake
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake
+[12-06-2021 12:48:48] Checking spr_bodyShark
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark
+[12-06-2021 12:48:48] Checking spr_bodyLion
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion
+[12-06-2021 12:48:48] Checking spr_bodyHorse
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse
+[12-06-2021 12:48:48] Checking spr_bodyDrag
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag
+[12-06-2021 12:48:48] Checking spr_bodyDog
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog
+[12-06-2021 12:48:48] Checking spr_bodyChick
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick
+[12-06-2021 12:48:48] Checking spr_bodyCat
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat
+[12-06-2021 12:48:48] Checking spr_bodyCat.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/spr_bodyCat.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/spr_bodyCat.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/spr_bodyCat.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyCat
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/layers
+[12-06-2021 12:48:48] Checking 20a9bebb-ab79-4e5e-9ee8-946d13e8032b.png
+[12-06-2021 12:48:48] Checking 20a9bebb-ab79-4e5e-9ee8-946d13e8032b
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyCat/layers/20a9bebb-ab79-4e5e-9ee8-946d13e8032b
+[12-06-2021 12:48:48] Checking 2aa613d0-d942-4a4d-9735-7d0cea62bdb9.png
+[12-06-2021 12:48:48] Checking spr_bodyChick.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/spr_bodyChick.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/spr_bodyChick.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/spr_bodyChick.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyChick
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/layers
+[12-06-2021 12:48:48] Checking a1d3daef-b068-4537-bfb0-b11dcd166690.png
+[12-06-2021 12:48:48] Checking a1d3daef-b068-4537-bfb0-b11dcd166690
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyChick/layers/a1d3daef-b068-4537-bfb0-b11dcd166690
+[12-06-2021 12:48:48] Checking e6ed69c7-5262-4c31-8070-afb5efe84a66.png
+[12-06-2021 12:48:48] Checking spr_bodyDog.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/spr_bodyDog.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/spr_bodyDog.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/spr_bodyDog.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyDog
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/layers
+[12-06-2021 12:48:48] Checking 0d7964a7-8906-4c0f-a0b7-7047fa352fa3.png
+[12-06-2021 12:48:48] Checking 0d7964a7-8906-4c0f-a0b7-7047fa352fa3
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDog/layers/0d7964a7-8906-4c0f-a0b7-7047fa352fa3
+[12-06-2021 12:48:48] Checking 0d8ccd5b-dce7-4a83-ad73-37740c5ddeae.png
+[12-06-2021 12:48:48] Checking spr_bodyDrag.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/spr_bodyDrag.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/spr_bodyDrag.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/spr_bodyDrag.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyDrag
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/layers
+[12-06-2021 12:48:48] Checking d9d4174c-14e1-45a5-aee6-86ae263ad81f.png
+[12-06-2021 12:48:48] Checking d9d4174c-14e1-45a5-aee6-86ae263ad81f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyDrag/layers/d9d4174c-14e1-45a5-aee6-86ae263ad81f
+[12-06-2021 12:48:48] Checking bfd2fe04-3578-4950-a324-50d6cf8214a1.png
+[12-06-2021 12:48:48] Checking spr_bodyHorse.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/spr_bodyHorse.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/spr_bodyHorse.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/spr_bodyHorse.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyHorse
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/layers
+[12-06-2021 12:48:48] Checking 1c7eb8c8-309b-4295-8f27-0ca02530af87.png
+[12-06-2021 12:48:48] Checking 1c7eb8c8-309b-4295-8f27-0ca02530af87
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyHorse/layers/1c7eb8c8-309b-4295-8f27-0ca02530af87
+[12-06-2021 12:48:48] Checking e2d34df8-1f59-4a6c-af2d-c7238d3db80b.png
+[12-06-2021 12:48:48] Checking spr_bodyLion.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/spr_bodyLion.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/spr_bodyLion.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/spr_bodyLion.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyLion
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/layers
+[12-06-2021 12:48:48] Checking 50413afc-6de1-4af4-9c3a-46a0568f5aee.png
+[12-06-2021 12:48:48] Checking 50413afc-6de1-4af4-9c3a-46a0568f5aee
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyLion/layers/50413afc-6de1-4af4-9c3a-46a0568f5aee
+[12-06-2021 12:48:48] Checking b5db8efb-5c2e-4d68-bb52-87b1af96079e.png
+[12-06-2021 12:48:48] Checking spr_bodyShark.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/spr_bodyShark.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/spr_bodyShark.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/spr_bodyShark.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodyShark
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/layers
+[12-06-2021 12:48:48] Checking 38d09e51-454f-425a-979f-431dbe9fd1c5.png
+[12-06-2021 12:48:48] Checking 38d09e51-454f-425a-979f-431dbe9fd1c5
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodyShark/layers/38d09e51-454f-425a-979f-431dbe9fd1c5
+[12-06-2021 12:48:48] Checking 123e6226-29ea-4364-910c-4bf76a9b44da.png
+[12-06-2021 12:48:48] Checking spr_bodySnake.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/spr_bodySnake.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/spr_bodySnake.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/bodies" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/spr_bodySnake.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_bodySnake
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/layers
+[12-06-2021 12:48:48] Checking d9df735e-4e7a-4e90-9cb1-32586d72723f.png
+[12-06-2021 12:48:48] Checking d9df735e-4e7a-4e90-9cb1-32586d72723f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_bodySnake/layers/d9df735e-4e7a-4e90-9cb1-32586d72723f
+[12-06-2021 12:48:48] Checking 11f85015-2ba0-4acd-be84-8bbc1be2381e.png
+[12-06-2021 12:48:48] Checking spr_coinCat.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/spr_coinCat.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/spr_coinCat.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/spr_coinCat.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinCat
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/layers
+[12-06-2021 12:48:48] Checking 9454c68e-f1c9-4d3d-abfc-dcd9ea4fcd09.png
+[12-06-2021 12:48:48] Checking 9454c68e-f1c9-4d3d-abfc-dcd9ea4fcd09
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinCat/layers/9454c68e-f1c9-4d3d-abfc-dcd9ea4fcd09
+[12-06-2021 12:48:48] Checking 087bda39-f26a-4f66-a9dd-1c9871bab312.png
+[12-06-2021 12:48:48] Checking spr_coinChick.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/spr_coinChick.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/spr_coinChick.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/spr_coinChick.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinChick
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/layers
+[12-06-2021 12:48:48] Checking edb0f606-811d-41c1-8fbf-a16d43e204da.png
+[12-06-2021 12:48:48] Checking edb0f606-811d-41c1-8fbf-a16d43e204da
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinChick/layers/edb0f606-811d-41c1-8fbf-a16d43e204da
+[12-06-2021 12:48:48] Checking 4f23b8a8-2791-4534-9ac1-f4c0e4901c10.png
+[12-06-2021 12:48:48] Checking spr_coinDog.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/spr_coinDog.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/spr_coinDog.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/spr_coinDog.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinDog
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/layers
+[12-06-2021 12:48:48] Checking 8c839001-b494-4ffe-9803-3c8b744b42bd.png
+[12-06-2021 12:48:48] Checking 8c839001-b494-4ffe-9803-3c8b744b42bd
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDog/layers/8c839001-b494-4ffe-9803-3c8b744b42bd
+[12-06-2021 12:48:48] Checking b5d34b1e-5fa7-43c2-b23a-5bc0eb814218.png
+[12-06-2021 12:48:48] Checking spr_coinDrag.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/spr_coinDrag.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/spr_coinDrag.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/spr_coinDrag.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinDrag
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/layers
+[12-06-2021 12:48:48] Checking 6ae29d9b-8676-4ae1-945f-fdbd868b3040.png
+[12-06-2021 12:48:48] Checking 6ae29d9b-8676-4ae1-945f-fdbd868b3040
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinDrag/layers/6ae29d9b-8676-4ae1-945f-fdbd868b3040
+[12-06-2021 12:48:48] Checking a402e184-62fd-44d9-a3f5-f7c4a9962dbd.png
+[12-06-2021 12:48:48] Checking spr_coinHorse.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/spr_coinHorse.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/spr_coinHorse.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/spr_coinHorse.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinHorse
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/layers
+[12-06-2021 12:48:48] Checking 166cd430-a924-4808-b0e8-52a31b8b83be.png
+[12-06-2021 12:48:48] Checking 166cd430-a924-4808-b0e8-52a31b8b83be
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinHorse/layers/166cd430-a924-4808-b0e8-52a31b8b83be
+[12-06-2021 12:48:48] Checking 65b6c942-23c7-4d87-a050-9b934889660f.png
+[12-06-2021 12:48:48] Checking spr_coinLion.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/spr_coinLion.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/spr_coinLion.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/spr_coinLion.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinLion
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/layers
+[12-06-2021 12:48:48] Checking 0500c109-8293-466b-9637-eaeb3dc991d3.png
+[12-06-2021 12:48:48] Checking 0500c109-8293-466b-9637-eaeb3dc991d3
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinLion/layers/0500c109-8293-466b-9637-eaeb3dc991d3
+[12-06-2021 12:48:48] Checking 0f5a43f7-d7a3-4edb-8b54-c54311a39a79.png
+[12-06-2021 12:48:48] Checking spr_coinShark.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/spr_coinShark.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/spr_coinShark.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/spr_coinShark.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinShark
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/layers
+[12-06-2021 12:48:48] Checking 2f56008e-6ed2-44ec-8e90-c9f5ce2e3446.png
+[12-06-2021 12:48:48] Checking 2f56008e-6ed2-44ec-8e90-c9f5ce2e3446
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinShark/layers/2f56008e-6ed2-44ec-8e90-c9f5ce2e3446
+[12-06-2021 12:48:48] Checking 00fa9931-2ee6-409f-864a-b78cb3d8615d.png
+[12-06-2021 12:48:48] Checking spr_coinSnake.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/spr_coinSnake.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/spr_coinSnake.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/coins" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/spr_coinSnake.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_coinSnake
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/layers
+[12-06-2021 12:48:48] Checking 1fe54bc5-7570-488a-8e1a-c3703b53668f.png
+[12-06-2021 12:48:48] Checking 1fe54bc5-7570-488a-8e1a-c3703b53668f
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_coinSnake/layers/1fe54bc5-7570-488a-8e1a-c3703b53668f
+[12-06-2021 12:48:48] Checking 79f70b97-c674-4c49-b123-40b0661f0dc7.png
+[12-06-2021 12:48:48] Checking spr_headCat.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/spr_headCat.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/spr_headCat.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/spr_headCat.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headCat
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/layers
+[12-06-2021 12:48:48] Checking c7e6b2fb-2eb1-4d8f-98bd-723800b4983c.png
+[12-06-2021 12:48:48] Checking c7e6b2fb-2eb1-4d8f-98bd-723800b4983c
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headCat/layers/c7e6b2fb-2eb1-4d8f-98bd-723800b4983c
+[12-06-2021 12:48:48] Checking ab33bbb4-a72e-4286-8f66-a88acdff469b.png
+[12-06-2021 12:48:48] Checking spr_headChick.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/spr_headChick.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/spr_headChick.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/spr_headChick.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headChick
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/layers
+[12-06-2021 12:48:48] Checking d5e0668b-f739-4a2a-bd55-d51152c51302.png
+[12-06-2021 12:48:48] Checking d5e0668b-f739-4a2a-bd55-d51152c51302
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headChick/layers/d5e0668b-f739-4a2a-bd55-d51152c51302
+[12-06-2021 12:48:48] Checking 023338a2-5ea6-4cbe-9d5c-59f807c5f5ec.png
+[12-06-2021 12:48:48] Checking spr_headDog.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/spr_headDog.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/spr_headDog.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/spr_headDog.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headDog
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/layers
+[12-06-2021 12:48:48] Checking 042ee09a-a68d-404e-9747-73f54c0749df.png
+[12-06-2021 12:48:48] Checking 042ee09a-a68d-404e-9747-73f54c0749df
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDog/layers/042ee09a-a68d-404e-9747-73f54c0749df
+[12-06-2021 12:48:48] Checking 4ce2f5f6-3215-40f4-838f-46b27d352ae9.png
+[12-06-2021 12:48:48] Checking spr_headDrag.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/spr_headDrag.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/spr_headDrag.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/spr_headDrag.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headDrag
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/layers
+[12-06-2021 12:48:48] Checking a6855b07-dd9a-4f28-ab0b-850078f71efe.png
+[12-06-2021 12:48:48] Checking a6855b07-dd9a-4f28-ab0b-850078f71efe
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headDrag/layers/a6855b07-dd9a-4f28-ab0b-850078f71efe
+[12-06-2021 12:48:48] Checking 503d4b49-5baa-4c25-a379-5982be2b9542.png
+[12-06-2021 12:48:48] Checking spr_headHorse.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/spr_headHorse.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/spr_headHorse.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/spr_headHorse.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headHorse
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/layers
+[12-06-2021 12:48:48] Checking 3acfceae-6d3d-41c5-9709-9a139d1aa5cc.png
+[12-06-2021 12:48:48] Checking 3acfceae-6d3d-41c5-9709-9a139d1aa5cc
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headHorse/layers/3acfceae-6d3d-41c5-9709-9a139d1aa5cc
+[12-06-2021 12:48:48] Checking 34e9b44f-b8ce-4905-81f2-9580dd178325.png
+[12-06-2021 12:48:48] Checking spr_headLion.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/spr_headLion.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/spr_headLion.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/spr_headLion.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headLion
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/layers
+[12-06-2021 12:48:48] Checking 801c5720-4c98-4943-b4a7-ad9bd7377e94.png
+[12-06-2021 12:48:48] Checking 801c5720-4c98-4943-b4a7-ad9bd7377e94
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headLion/layers/801c5720-4c98-4943-b4a7-ad9bd7377e94
+[12-06-2021 12:48:48] Checking 6bcddeb6-0a03-4cb7-aef9-14656582f303.png
+[12-06-2021 12:48:48] Checking spr_headShark.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/spr_headShark.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/spr_headShark.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/spr_headShark.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headShark
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/layers
+[12-06-2021 12:48:48] Checking b80f189a-d2e6-4035-b1c2-f6fb6534d3fb.png
+[12-06-2021 12:48:48] Checking b80f189a-d2e6-4035-b1c2-f6fb6534d3fb
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headShark/layers/b80f189a-d2e6-4035-b1c2-f6fb6534d3fb
+[12-06-2021 12:48:48] Checking 8bdb38e8-c316-4b09-81fd-29440c462ca5.png
+[12-06-2021 12:48:48] Checking spr_headSnake.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/spr_headSnake.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/spr_headSnake.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/spr_headSnake.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headSnake
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/layers
+[12-06-2021 12:48:48] Checking 4b920238-363e-4329-b1f3-4ef0cd0dfc5a.png
+[12-06-2021 12:48:48] Checking 4b920238-363e-4329-b1f3-4ef0cd0dfc5a
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headSnake/layers/4b920238-363e-4329-b1f3-4ef0cd0dfc5a
+[12-06-2021 12:48:48] Checking 039547f2-91b4-476b-be36-ba7b4326b41b.png
+[12-06-2021 12:48:48] Checking spr_headStart.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/spr_headStart.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/spr_headStart.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites/heads" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/spr_headStart.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_headStart
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/layers
+[12-06-2021 12:48:48] Checking bd92f353-7369-479e-8c50-1fa64851a034.png
+[12-06-2021 12:48:48] Checking bd92f353-7369-479e-8c50-1fa64851a034
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_headStart/layers/bd92f353-7369-479e-8c50-1fa64851a034
+[12-06-2021 12:48:48] Checking 632bb1b2-e954-4a96-85ef-da0b95fddf44.png
+[12-06-2021 12:48:48] Checking spr_wall.yy
+[12-06-2021 12:48:48] Parsing C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/spr_wall.yy
+[12-06-2021 12:48:48] Reading C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/spr_wall.yy
+[12-06-2021 12:48:48] Par: "folders/Sprites" at dir: "C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/spr_wall.yy"
+[12-06-2021 12:48:48] Found Sprite: spr_wall
+[12-06-2021 12:48:48] Checking layers
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/layers
+[12-06-2021 12:48:48] Checking 7cbeb05c-fd22-43ac-82f6-0bb4bcdb8538.png
+[12-06-2021 12:48:48] Checking 7cbeb05c-fd22-43ac-82f6-0bb4bcdb8538
+[12-06-2021 12:48:48] Directory: C:/Users/evanm/Desktop/Blit Jam/sprites/spr_wall/layers/7cbeb05c-fd22-43ac-82f6-0bb4bcdb8538
+[12-06-2021 12:48:48] Checking e0185637-ab0f-4f82-aad4-6697cbecce0b.png
+[12-06-2021 12:48:48] Checking yypm.log
+[12-06-2021 12:48:48] Checking spr_testFruit.yy
+[12-06-2021 12:48:48] Trash file: spr_testFruit.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_headDog.yy
+[12-06-2021 12:48:48] Trash file: spr_headDog.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_headCentaur.yy
+[12-06-2021 12:48:48] Trash file: spr_headCentaur.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_headCat.yy
+[12-06-2021 12:48:48] Trash file: spr_headCat.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_bodySnake.yy
+[12-06-2021 12:48:48] Trash file: spr_bodySnake.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_bodyDog.yy
+[12-06-2021 12:48:48] Trash file: spr_bodyDog.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_bodyCat.yy
+[12-06-2021 12:48:48] Trash file: spr_bodyCat.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking spr_body1.yy
+[12-06-2021 12:48:48] Trash file: spr_body1.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking rm_test.yy
+[12-06-2021 12:48:48] Trash file: rm_test.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking obj_coinShark.yy
+[12-06-2021 12:48:48] Trash file: obj_coinShark.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking obj_coinLion.yy
+[12-06-2021 12:48:48] Trash file: obj_coinLion.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking obj_coinHorse.yy
+[12-06-2021 12:48:48] Trash file: obj_coinHorse.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking obj_coinDog.yy
+[12-06-2021 12:48:48] Trash file: obj_coinDog.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking obj_coinCat.yy
+[12-06-2021 12:48:48] Trash file: obj_coinCat.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking obj_coin2.yy
+[12-06-2021 12:48:48] Trash file: obj_coin2.yy, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Checking Blit Jam.yyp
+[12-06-2021 12:48:48] Found old YYP file: Blit Jam.yyp, will be moved to ___yyp_maker_trash
+[12-06-2021 12:48:48] Moving files to trash...
+[12-06-2021 12:48:48] Files yeeted successfully!
+[12-06-2021 12:48:48] Generating YYP...
+[12-06-2021 12:48:48] Blit Jam.yyp created successfully!
