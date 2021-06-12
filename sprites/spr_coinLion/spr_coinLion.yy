@@ -27,21 +27,41 @@
     {"compositeImage":{"FrameId":{"name":"0500c109-8293-466b-9637-eaeb3dc991d3","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"0500c109-8293-466b-9637-eaeb3dc991d3","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":{"name":"0f5a43f7-d7a3-4edb-8b54-c54311a39a79","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"0500c109-8293-466b-9637-eaeb3dc991d3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f8e4c6f8-53dc-4387-a12e-60c5a59ea9d6","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f8e4c6f8-53dc-4387-a12e-60c5a59ea9d6","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":{"name":"0f5a43f7-d7a3-4edb-8b54-c54311a39a79","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"f8e4c6f8-53dc-4387-a12e-60c5a59ea9d6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3fe446df-9ca3-4163-84cc-b5dcdf18f651","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3fe446df-9ca3-4163-84cc-b5dcdf18f651","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":{"name":"0f5a43f7-d7a3-4edb-8b54-c54311a39a79","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"3fe446df-9ca3-4163-84cc-b5dcdf18f651","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3e3ae682-e1ea-49f8-9678-dcfc9c0ab309","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3e3ae682-e1ea-49f8-9678-dcfc9c0ab309","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":{"name":"0f5a43f7-d7a3-4edb-8b54-c54311a39a79","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"3e3ae682-e1ea-49f8-9678-dcfc9c0ab309","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ce703fa8-8865-49d2-8830-f2c568304efb","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ce703fa8-8865-49d2-8830-f2c568304efb","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":{"name":"0f5a43f7-d7a3-4edb-8b54-c54311a39a79","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"ce703fa8-8865-49d2-8830-f2c568304efb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0de228fb-acba-4da9-9bd7-5fd46a77664a","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0de228fb-acba-4da9-9bd7-5fd46a77664a","path":"sprites/spr_coinLion/spr_coinLion.yy",},"LayerId":{"name":"0f5a43f7-d7a3-4edb-8b54-c54311a39a79","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","name":"0de228fb-acba-4da9-9bd7-5fd46a77664a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_coinLion","path":"sprites/spr_coinLion/spr_coinLion.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 4.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 6.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c43fdc51-733e-4e26-9465-58a689597f45","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0500c109-8293-466b-9637-eaeb3dc991d3","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5d43aa45-062e-4c6a-a8a4-39f90557b951","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f8e4c6f8-53dc-4387-a12e-60c5a59ea9d6","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0e846252-4425-4c52-8cc6-5e79f69dba0a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3fe446df-9ca3-4163-84cc-b5dcdf18f651","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f36e4ac5-38ba-40fb-a0a7-315fe50c20f1","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e3ae682-e1ea-49f8-9678-dcfc9c0ab309","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"af40fd63-059e-4418-bac1-0df0a77150f9","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce703fa8-8865-49d2-8830-f2c568304efb","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d0650db5-6292-469f-9667-9ae4adc0fc0b","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0de228fb-acba-4da9-9bd7-5fd46a77664a","path":"sprites/spr_coinLion/spr_coinLion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
