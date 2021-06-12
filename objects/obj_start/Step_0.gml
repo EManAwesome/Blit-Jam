@@ -12,3 +12,7 @@ else if (keyboard_check(ord(3)))
 {
 	room_goto(rm_hard);
 }
+else if (keyboard_check(ord("C")))
+{
+	room_goto(rm_credits);
+}

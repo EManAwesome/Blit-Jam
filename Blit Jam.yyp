@@ -18,6 +18,7 @@
     {"id":{"name":"obj_snekBody","path":"objects/obj_snekBody/obj_snekBody.yy",},"order":13,},
     {"id":{"name":"scr_collect","path":"scripts/scr_collect/scr_collect.yy",},"order":5,},
     {"id":{"name":"obj_spawnerE","path":"objects/obj_spawnerE/obj_spawnerE.yy",},"order":14,},
+    {"id":{"name":"obj_credit","path":"objects/obj_credit/obj_credit.yy",},"order":19,},
     {"id":{"name":"obj_spawnerH","path":"objects/obj_spawnerH/obj_spawnerH.yy",},"order":15,},
     {"id":{"name":"obj_spawnerM","path":"objects/obj_spawnerM/obj_spawnerM.yy",},"order":16,},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"order":17,},
@@ -42,6 +43,7 @@
     {"id":{"name":"spr_bodyDrag","path":"sprites/spr_bodyDrag/spr_bodyDrag.yy",},"order":3,},
     {"id":{"name":"spr_bodyHorse","path":"sprites/spr_bodyHorse/spr_bodyHorse.yy",},"order":4,},
     {"id":{"name":"spr_bodyLion","path":"sprites/spr_bodyLion/spr_bodyLion.yy",},"order":5,},
+    {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},"order":5,},
     {"id":{"name":"spr_bodyShark","path":"sprites/spr_bodyShark/spr_bodyShark.yy",},"order":6,},
     {"id":{"name":"snd_gush","path":"sounds/snd_gush/snd_gush.yy",},"order":6,},
     {"id":{"name":"spr_bodySnake","path":"sprites/spr_bodySnake/spr_bodySnake.yy",},"order":7,},
@@ -85,6 +87,7 @@
     {"roomId":{"name":"rm_easy","path":"rooms/rm_easy/rm_easy.yy",},},
     {"roomId":{"name":"rm_hard","path":"rooms/rm_hard/rm_hard.yy",},},
     {"roomId":{"name":"rm_med","path":"rooms/rm_med/rm_med.yy",},},
+    {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
