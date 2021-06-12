@@ -44,5 +44,5 @@ else
 		sprite_index = spr_bodySnake;
 	}
 
-	alarm[0] = 60;
+	alarm[0] = global.GAME_SPEED;
 }

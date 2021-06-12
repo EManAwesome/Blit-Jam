@@ -8,7 +8,7 @@ move_l = false;
 move_r = false;
 lastMove = 99;
 
-alarm[0] = 60;
+alarm[0] = global.GAME_SPEED;
 
 bodyArray = array_create(1, 0);
 

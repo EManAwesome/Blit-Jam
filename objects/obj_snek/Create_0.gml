@@ -12,4 +12,4 @@ bodyArray = array_create(0);
 moveArray = array_create(0);
 */
 sprite_index = obj_controller.head;
-alarm[0] = 60;
+alarm[0] = global.GAME_SPEED;
