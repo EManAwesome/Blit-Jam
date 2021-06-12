@@ -3,15 +3,33 @@
 function scr_spawn(){
 	spawnX = irandom_range(1, 16) * 32;
 	spawnY = irandom_range(1, 16) * 32;
-	randCoin = irandom_range(1,2); //8);
+	randCoin = irandom_range(1,8);
 	
 	switch (randCoin)
 	{
 		case 1:
-			spawnCoin = obj_coin1;
+			spawnCoin = obj_coinCat;
 			break;
 		case 2:
-			spawnCoin = obj_coin2;
+			spawnCoin = obj_coinChick;
+			break;
+		case 3:
+			spawnCoin = obj_coinDog;
+			break;
+		case 4:
+			spawnCoin = obj_coinDrag;
+			break;
+		case 5:
+			spawnCoin = obj_coinHorse;
+			break;
+		case 6:
+			spawnCoin = obj_coinLion;
+			break;
+		case 7:
+			spawnCoin = obj_coinShark;
+			break;
+		case 8:
+			spawnCoin = obj_coinSnake;
 			break;
 	}
 	
