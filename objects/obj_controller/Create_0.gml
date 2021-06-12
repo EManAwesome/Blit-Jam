@@ -6,6 +6,7 @@ move_u = false;
 move_d = false;
 move_l = false;
 move_r = false;
+lastMove = 99;
 
 alarm[0] = 60;
 

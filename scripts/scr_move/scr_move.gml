@@ -4,18 +4,22 @@ function scr_move(){
 	if (move_u)
 	{
 		instance_create_depth(obj_snek.x, obj_snek.y - spd, 0, obj_snek);
+		lastMove = 0;
 	}
 	else if (move_d)
 	{
 		instance_create_depth(obj_snek.x, obj_snek.y + spd, 0, obj_snek);
+		lastMove = 1;
 	}
 	else if (move_l)
 	{
 		instance_create_depth(obj_snek.x - spd, obj_snek.y, 0, obj_snek);
+		lastMove = 2;
 	}
 	else if (move_r)
 	{
 		instance_create_depth(obj_snek.x + spd, obj_snek.y, 0, obj_snek);
+		lastMove = 3;
 	}
 	else
 	{

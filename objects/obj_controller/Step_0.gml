@@ -7,9 +7,10 @@ move_right = keyboard_check(ord("D")) || keyboard_check(vk_right);
 
 if (move_up)
 {
-	if (move_d = false)
+	if (lastMove != 1)
 	{
 		move_u = true;
+		move_d = false
 		move_r = false;
 		move_l = false;
 	}
@@ -17,8 +18,9 @@ if (move_up)
 
 if (move_down)
 {
-	if (move_u = false)
+	if (lastMove != 0)
 	{
+		move_u = false;
 		move_d = true;
 		move_r = false;
 		move_l = false;
@@ -27,9 +29,10 @@ if (move_down)
 
 if (move_left)
 {
-	if (move_r = false)
+	if (lastMove != 3)
 	{
 		move_l = true;
+		move_r = false;
 		move_u = false;
 		move_d = false;
 	}
@@ -37,8 +40,9 @@ if (move_left)
 
 if (move_right)
 {
-	if (move_l = false)
+	if (lastMove != 2)
 	{
+		move_l = false;
 		move_r = true;
 		move_u = false;
 		move_d = false;
