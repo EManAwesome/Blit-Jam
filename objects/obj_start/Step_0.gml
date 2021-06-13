@@ -16,3 +16,7 @@ else if (keyboard_check(ord("C")))
 {
 	room_goto(rm_credits);
 }
+else if (keyboard_check(ord("H")))
+{
+	room_goto(rm_help);
+}
