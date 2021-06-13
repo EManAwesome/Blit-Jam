@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-//draw_text(200, 250, "Press R to Restart");
+draw_set_font(fnt_die);
+draw_text(190, 256, "Final Score: " + string(global.coinScore));

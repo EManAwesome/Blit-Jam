@@ -12,6 +12,6 @@ alarm[0] = global.GAME_SPEED;
 
 bodyArray = array_create(1, 0);
 
-coinScore = 0;
+global.coinScore = 0;
 
 head = spr_headStart;

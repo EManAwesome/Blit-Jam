@@ -80,6 +80,7 @@
     {"id":{"name":"spr_coinShark","path":"sprites/spr_coinShark/spr_coinShark.yy",},"order":6,},
     {"id":{"name":"spr_coinSnake","path":"sprites/spr_coinSnake/spr_coinSnake.yy",},"order":7,},
     {"id":{"name":"rm_help","path":"rooms/rm_help/rm_help.yy",},"order":6,},
+    {"id":{"name":"fnt_die","path":"fonts/fnt_die/fnt_die.yy",},"order":20,},
     {"id":{"name":"spr_headCat","path":"sprites/spr_headCat/spr_headCat.yy",},"order":0,},
     {"id":{"name":"spr_headChick","path":"sprites/spr_headChick/spr_headChick.yy",},"order":1,},
     {"id":{"name":"spr_headDog","path":"sprites/spr_headDog/spr_headDog.yy",},"order":2,},
