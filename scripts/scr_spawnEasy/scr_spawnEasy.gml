@@ -1,8 +1,8 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_spawnEasy(){
-	spawnX = irandom_range(1, 16) * 32;
-	spawnY = irandom_range(1, 16) * 32;
+	spawnX = irandom_range(1, 15) * 32;
+	spawnY = irandom_range(1, 15) * 32;
 	randCoin = irandom_range(1,2);
 	
 	switch (randCoin)
