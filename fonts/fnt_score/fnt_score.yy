@@ -310,7 +310,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ft_score",
+  "name": "fnt_score",
   "tags": [],
   "resourceType": "GMFont",
 }

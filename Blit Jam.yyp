@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"ft_score","path":"fonts/ft_score/ft_score.yy",},"order":0,},
+    {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},"order":0,},
     {"id":{"name":"spr_help","path":"sprites/spr_help/spr_help.yy",},"order":0,},
     {"id":{"name":"obj_coinCat","path":"objects/obj_coinCat/obj_coinCat.yy",},"order":0,},
     {"id":{"name":"obj_coinChick","path":"objects/obj_coinChick/obj_coinChick.yy",},"order":1,},
